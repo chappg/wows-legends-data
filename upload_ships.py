@@ -162,56 +162,42 @@ def main():
     ws.format("1:1", {"textFormat": {"bold": True}})
     ws.freeze(rows=1)
 
-    # Detect checkbox columns (user columns where all non-empty values are TRUE/FALSE)
-    # and apply data validation so they render as checkboxes, not strings
-    if user_col_indices:
-        from gspread.utils import ValidationConditionType
-
-        for col_name in [h for _, h in user_col_indices]:
+    # Restore checkbox formatting for detected checkbox columns
+    if checkbox_cols:
+        checkbox_requests = []
+        for col_name in checkbox_cols:
             col_idx = final_headers.index(col_name)
-            values = [r[col_idx] for r in final_rows[1:] if col_idx < len(r)]
-            non_empty = [v for v in values if isinstance(v, bool) or (isinstance(v, str) and v.strip())]
-            if non_empty and all(
-                isinstance(v, bool) or (isinstance(v, str) and v.upper() in ("TRUE", "FALSE"))
-                for v in non_empty
-            ):
-                # Column letter (supports A-ZZ)
-                if col_idx < 26:
-                    col_letter = chr(ord("A") + col_idx)
+            cl = col_letter(col_idx)
+            print(f"  Restoring checkboxes for '{col_name}' (col {cl})")
+
+            # Write actual booleans via RAW mode
+            bool_cells = []
+            for row_idx in range(1, len(final_rows)):
+                val = final_rows[row_idx][col_idx] if col_idx < len(final_rows[row_idx]) else ""
+                if isinstance(val, bool):
+                    bool_cells.append([val])
                 else:
-                    col_letter = chr(ord("A") + col_idx // 26 - 1) + chr(ord("A") + col_idx % 26)
-                cell_range = f"{col_letter}2:{col_letter}{len(final_rows)}"
-                print(f"  Applying checkbox formatting to '{col_name}' ({cell_range})")
+                    bool_cells.append([val.upper() == "TRUE" if isinstance(val, str) and val.strip() else False])
+            ws.update(bool_cells, f"{cl}2", value_input_option="RAW")
 
-                # Write actual booleans (RAW mode) so checkboxes render correctly
-                bool_cells = []
-                for row_idx in range(1, len(final_rows)):
-                    val = final_rows[row_idx][col_idx] if col_idx < len(final_rows[row_idx]) else ""
-                    if isinstance(val, bool):
-                        bool_cells.append([val])
-                    else:
-                        bool_cells.append([val.upper() == "TRUE" if val.strip() else False])
-                ws.update(bool_cells, f"{col_letter}2", value_input_option="RAW")
+            # Queue checkbox data validation
+            checkbox_requests.append({
+                "setDataValidation": {
+                    "range": {
+                        "sheetId": ws.id,
+                        "startRowIndex": 1,
+                        "endRowIndex": len(final_rows),
+                        "startColumnIndex": col_idx,
+                        "endColumnIndex": col_idx + 1,
+                    },
+                    "rule": {
+                        "condition": {"type": "BOOLEAN"},
+                        "showCustomUi": True,
+                    },
+                }
+            })
 
-                # Apply checkbox data validation via raw Sheets API
-                sheet_id = ws.id
-                sh.batch_update({
-                    "requests": [{
-                        "setDataValidation": {
-                            "range": {
-                                "sheetId": sheet_id,
-                                "startRowIndex": 1,
-                                "endRowIndex": len(final_rows),
-                                "startColumnIndex": col_idx,
-                                "endColumnIndex": col_idx + 1,
-                            },
-                            "rule": {
-                                "condition": {"type": "BOOLEAN"},
-                                "showCustomUi": True,
-                            },
-                        }
-                    }]
-                })
+        sh.batch_update({"requests": checkbox_requests})
 
     print(f"\n✅ Done! {len(final_rows)-1} ships uploaded with {len(final_rows[0])} columns.")
     print(f"Sheet: https://docs.google.com/spreadsheets/d/{SHEET_ID}")
