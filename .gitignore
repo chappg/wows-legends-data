@@ -1,0 +1,8 @@
+node_modules/
+*.log
+__pycache__/
+*.pyc
+
+# Scrape state (large, regenerable)
+ships_patch_progress.json
+ships_v3_partial.json
