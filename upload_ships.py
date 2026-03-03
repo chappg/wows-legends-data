@@ -193,13 +193,25 @@ def main():
                         bool_cells.append([val.upper() == "TRUE" if val.strip() else False])
                 ws.update(bool_cells, f"{col_letter}2", value_input_option="RAW")
 
-                # Apply checkbox data validation
-                ws.add_validation(
-                    cell_range,
-                    ValidationConditionType.boolean,
-                    values=[],
-                    showCustomUi=True,
-                )
+                # Apply checkbox data validation via raw Sheets API
+                sheet_id = ws.id
+                sh.batch_update({
+                    "requests": [{
+                        "setDataValidation": {
+                            "range": {
+                                "sheetId": sheet_id,
+                                "startRowIndex": 1,
+                                "endRowIndex": len(final_rows),
+                                "startColumnIndex": col_idx,
+                                "endColumnIndex": col_idx + 1,
+                            },
+                            "rule": {
+                                "condition": {"type": "BOOLEAN"},
+                                "showCustomUi": True,
+                            },
+                        }
+                    }]
+                })
 
     print(f"\n✅ Done! {len(final_rows)-1} ships uploaded with {len(final_rows[0])} columns.")
     print(f"Sheet: https://docs.google.com/spreadsheets/d/{SHEET_ID}")
