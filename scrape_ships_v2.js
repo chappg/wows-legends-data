@@ -54,7 +54,8 @@ function parseShipText(text, slug) {
   const classMatch = text.match(/Class\s*([A-Za-z ]+?)(?:\n|Tier)/);
   ship.class = classMatch ? classMatch[1].trim() : null;
   
-  const tierMatch = text.match(/Tier\s*(I{1,3}|IV|VI{0,3}|VIII?|★|Legendary)/);
+  // Order matters: longer matches first (VIII before VII before VI before V, IV before III before II before I)
+  const tierMatch = text.match(/Tier\s*(VIII|VII|VI|V|IV|III|II|I|★|Legendary)/);
   ship.tier = tierMatch ? tierMatch[1].trim() : null;
   
   const typeMatch = text.match(/Type\s*([A-Za-z ]+?)(?:\n|Tech Tree|$)/);
@@ -214,6 +215,33 @@ async function main() {
       console.error(`  ${slug}: ERROR - ${e.message}`);
     }
     await sleep(DELAY_MS);
+  }
+
+  // Step 2.5: Apply corrections for known wowsbuilds.com data errors
+  const SHIP_CORRECTIONS = {
+    'De Zeven Provinciën': {
+      // Has airstrikes (200 kt aircraft), NOT torpedoes — scraper misreads airstrike section as torps
+      torpRange: null, torpSpeed: null, torpDamage: null, torpReload: null, torpDetect: null, torpLauncher: null
+    },
+    'Blazing Dread': { turningCircle: '765 m' },       // wowsbuilds shows 7650 (10x)
+    'Gelderland':     { turningCircle: '330 m' },       // wowsbuilds shows 3300 (10x)
+    'Vallejo':        { turningCircle: '741 m' },       // wowsbuilds shows 7409 (10x)
+    'Dmitry Pozharsky': { airDetect: '8.40 km' },       // wowsbuilds shows 84.00 (10x)
+    'Henri IV':       { aaMaxDPS: 298 },                // wowsbuilds AA mount 1 DPS inflated 100x (20445 → ~204)
+  };
+
+  for (const ship of ships) {
+    const corrections = SHIP_CORRECTIONS[ship.name];
+    if (corrections) {
+      for (const [key, val] of Object.entries(corrections)) {
+        if (val === null) {
+          delete ship[key];
+        } else {
+          ship[key] = val;
+        }
+      }
+      console.error(`  Applied corrections for ${ship.name}`);
+    }
   }
 
   // Step 3: Output

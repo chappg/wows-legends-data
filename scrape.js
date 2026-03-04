@@ -123,10 +123,30 @@ function parseCommanderMeta(payload) {
   return { name, nation, shipClass };
 }
 
+// Parameters where the JSON value is already in percentage form (NOT a decimal fraction).
+// e.g., torpedo_speed: 5 means +5%, NOT +500%. Most other params use fractions (0.05 = 5%).
+const ALREADY_PERCENTAGE_PARAMS = new Set([
+  'torpedo_speed', 'traverse_add', 'ricochet', 'guaranteed_ricochet', 'guaranteed_richochet',
+  'max_ricochet', 'torpedo_detect', 'torpedo_detectability',
+  'airstrike_torpedo_speed',
+  // Flat charge additions (1 = +1 charge, not 100%)
+  'consumable_charge', 'damage_control_party_charges', 'engine_boost_charges',
+  'repair_party_charges', 'sonar_charges', 'smoke_charges', 'smoke_generator_charges',
+  'enhanced_secondary_targeting_charges', 'spotter_charges', 'spotter_plane_charges',
+  'main_battery_reload_booster_charges', 'mbrb_charges', 'torpedo_reload_booster_charges',
+  'airstrike_squadrons', 'est_charges', 'shells_in_ready_rack',
+]);
+
 function formatEffect(effect) {
   if (!effect) return '';
   const val = effect.value;
-  const pct = Math.abs(val * 100).toFixed(1);
+  const param = effect.parameter || '';
+  
+  // For parameters already in percentage form, don't multiply by 100
+  const pct = ALREADY_PERCENTAGE_PARAMS.has(param)
+    ? Math.abs(val).toFixed(1)
+    : Math.abs(val * 100).toFixed(1);
+  
   const sign = val >= 0 ? '+' : '-';
   const benefit = effect.benefit ? '' : ' [PENALTY]';
   const activation = effect.activation ? ` @L${effect.activation}` : '';

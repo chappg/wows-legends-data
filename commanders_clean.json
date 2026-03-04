@@ -478,7 +478,7 @@
   },
   {
     "slug": "al-agir",
-    "name": "AL Ägir",
+    "name": "AL \u00c4gir",
     "nation": "germany",
     "class": "Cruiser",
     "baseTrait": {
@@ -780,7 +780,7 @@
       {
         "row": 3,
         "column": 3,
-        "name": "Jötunn's Jaws",
+        "name": "J\u00f6tunn's Jaws",
         "slug": "jotunns-jaws",
         "effects": [
           {
@@ -12747,7 +12747,7 @@
       "slug": "fate-simulation",
       "effects": [
         {
-          "value": "+0.07 º/s",
+          "value": "+0.07 \u00ba/s",
           "description": "Cruiser gun traverse speed"
         },
         {
@@ -12866,7 +12866,7 @@
       {
         "row": 2,
         "column": 3,
-        "name": "Exposé",
+        "name": "Expos\u00e9",
         "slug": "expose",
         "effects": [
           {
@@ -23631,7 +23631,7 @@
       "slug": "blink-of-an-eye",
       "effects": [
         {
-          "value": "+0.75 º/s",
+          "value": "+0.75 \u00ba/s",
           "description": "Battleship gun traverse speed"
         },
         {
@@ -27416,7 +27416,7 @@
   },
   {
     "slug": "casto-mendez-nunez",
-    "name": "Casto Méndez Núñez",
+    "name": "Casto M\u00e9ndez N\u00fa\u00f1ez",
     "nation": "spain",
     "class": "Hybrid",
     "baseTrait": {
@@ -28293,7 +28293,7 @@
   },
   {
     "slug": "charles-blery",
-    "name": "Charles Bléry",
+    "name": "Charles Bl\u00e9ry",
     "nation": "france",
     "class": "Destroyer",
     "baseTrait": {
@@ -39385,7 +39385,7 @@
       {
         "row": 2,
         "column": 3,
-        "name": "Exposé",
+        "name": "Expos\u00e9",
         "slug": "expose",
         "effects": [
           {
@@ -39700,7 +39700,7 @@
   },
   {
     "slug": "gunzo-chiaya",
-    "name": "Gunzō Chiaya",
+    "name": "Gunz\u014d Chiaya",
     "nation": "japan",
     "class": "Destroyer",
     "baseTrait": {
@@ -42216,7 +42216,7 @@
   },
   {
     "slug": "henk-propper",
-    "name": "Henk Pröpper",
+    "name": "Henk Pr\u00f6pper",
     "nation": "netherlands",
     "class": "Hybrid",
     "baseTrait": {
@@ -51174,7 +51174,7 @@
       {
         "row": 2,
         "column": 3,
-        "name": "Exposé",
+        "name": "Expos\u00e9",
         "slug": "expose",
         "effects": [
           {
@@ -52431,7 +52431,7 @@
       "slug": "summer-party",
       "effects": [
         {
-          "value": "+0.60 º/s",
+          "value": "+0.60 \u00ba/s",
           "description": "Battleship gun traverse speed"
         },
         {
@@ -56567,7 +56567,7 @@
       {
         "row": 2,
         "column": 2,
-        "name": "Exposé",
+        "name": "Expos\u00e9",
         "slug": "expose",
         "effects": [
           {
@@ -57866,7 +57866,7 @@
     "nation": "france",
     "class": "Battleship",
     "baseTrait": {
-      "name": "À l'abordage!",
+      "name": "\u00c0 l'abordage!",
       "slug": "a-l-abordage",
       "effects": [
         {
@@ -58388,7 +58388,7 @@
       "slug": "vicious-circle",
       "effects": [
         {
-          "value": "+1.00 º/s",
+          "value": "+1.00 \u00ba/s",
           "description": "Traverse speed of battleship's guns"
         }
       ]
@@ -61085,7 +61085,7 @@
       {
         "row": 2,
         "column": 3,
-        "name": "Exposé",
+        "name": "Expos\u00e9",
         "slug": "expose",
         "effects": [
           {
@@ -67814,7 +67814,7 @@
       "slug": "firm-hand",
       "effects": [
         {
-          "value": "+2.00 º/s",
+          "value": "+2.00 \u00ba/s",
           "description": "Traverse speed of destroyer's guns"
         }
       ]
@@ -70664,7 +70664,7 @@
       "slug": "pinpoint",
       "effects": [
         {
-          "value": "+1.20 º/s",
+          "value": "+1.20 \u00ba/s",
           "description": "Destroyer gun traverse speed"
         },
         {
@@ -73264,7 +73264,7 @@
       "slug": "whirlabout",
       "effects": [
         {
-          "value": "+1.00 º/s",
+          "value": "+1.00 \u00ba/s",
           "description": "Traverse speed of cruiser's guns"
         }
       ]
