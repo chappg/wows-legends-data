@@ -31553,7 +31553,7 @@
     "nation": "U.S.A.",
     "class": "Battleship",
     "tier": "III",
-    "type": "Premium",
+    "type": "Tech Tree",
     "hitpoints": "43,800",
     "effectiveHP": "62,196",
     "armor": "13-305 mm",
