@@ -1,0 +1,4755 @@
+{
+  "a-m-sumner": {
+    "name": "A. M. Sumner",
+    "nation": "U.S.A.",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": false
+  },
+  "acasta": {
+    "name": "Acasta",
+    "nation": "U.K.",
+    "class": "Destroyer",
+    "tier": "I",
+    "premium": false
+  },
+  "achilles": {
+    "name": "Achilles",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "adriatico": {
+    "name": "Adriatico",
+    "nation": "Italy",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": false
+  },
+  "agano": {
+    "name": "Agano",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "agincourt": {
+    "name": "Agincourt",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "III",
+    "premium": true
+  },
+  "agir": {
+    "name": "Ägir",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": true
+  },
+  "aigle": {
+    "name": "Aigle",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": true
+  },
+  "akatsuki": {
+    "name": "Akatsuki",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": false
+  },
+  "aki": {
+    "name": "Aki",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "★",
+    "premium": true
+  },
+  "aki-se-25": {
+    "name": "Aki SE 25",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "★",
+    "premium": true
+  },
+  "akizuki": {
+    "name": "Akizuki",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": false
+  },
+  "al-agir": {
+    "name": "Al Ägir",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": true
+  },
+  "al-avrora": {
+    "name": "AL Avrora",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": true
+  },
+  "al-chapayev": {
+    "name": "AL Chapayev",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "al-cheshire": {
+    "name": "AL Cheshire",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "al-formidable": {
+    "name": "AL Formidable",
+    "nation": "U.K.",
+    "class": "Aircraft Carrier",
+    "tier": "VII",
+    "premium": true
+  },
+  "al-harbin": {
+    "name": "AL Harbin",
+    "nation": "Pan",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "al-montpelier": {
+    "name": "AL Montpelier",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "al-new-jersey": {
+    "name": "AL New Jersey",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "al-richelieu": {
+    "name": "AL Richelieu",
+    "nation": "France",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "al-sov-rossiya": {
+    "name": "AL Sov. Rossiya",
+    "nation": "U.S.S.R.",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": true
+  },
+  "al-tallinn": {
+    "name": "AL Tallinn",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "al-vittorio-veneto": {
+    "name": "AL Vittorio Veneto",
+    "nation": "Italy",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "al-yukikaze": {
+    "name": "AL Yukikaze",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "al-z24": {
+    "name": "AL Z24",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": true
+  },
+  "al-zara": {
+    "name": "AL Zara",
+    "nation": "Italy",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "alabama": {
+    "name": "Alabama",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "alabama-black": {
+    "name": "Alabama Black",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "alaska": {
+    "name": "Alaska",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "★",
+    "premium": true
+  },
+  "alaska-b": {
+    "name": "Alaska B",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "★",
+    "premium": true
+  },
+  "albany": {
+    "name": "Albany",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "albemarle": {
+    "name": "Albemarle",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": false
+  },
+  "algerie": {
+    "name": "Algerie",
+    "nation": "France",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": false
+  },
+  "almirante-cervera": {
+    "name": "Almirante Cervera",
+    "nation": "Spain",
+    "class": "Cruiser",
+    "tier": "III",
+    "premium": false
+  },
+  "alsace": {
+    "name": "Alsace",
+    "nation": "France",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": false
+  },
+  "amagi": {
+    "name": "Amagi",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": false
+  },
+  "amalfi": {
+    "name": "Amalfi",
+    "nation": "Italy",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": false
+  },
+  "anchorage": {
+    "name": "Anchorage",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "andalucia": {
+    "name": "Andalucía",
+    "nation": "Spain",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": false
+  },
+  "andrea-doria": {
+    "name": "Andrea Doria",
+    "nation": "Italy",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": false
+  },
+  "anhalt": {
+    "name": "Anhalt",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "anshan": {
+    "name": "Anshan",
+    "nation": "Pan",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": true
+  },
+  "aoba": {
+    "name": "Aoba",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": false
+  },
+  "arizona": {
+    "name": "Arizona",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": true
+  },
+  "ark-royal": {
+    "name": "Ark Royal",
+    "nation": "U.K.",
+    "class": "Aircraft Carrier",
+    "tier": "V",
+    "premium": true
+  },
+  "arkansas": {
+    "name": "Arkansas",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "III",
+    "premium": true
+  },
+  "arp-haguro": {
+    "name": "ARP Haguro",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "arp-haruna": {
+    "name": "ARP Haruna",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "I",
+    "premium": true
+  },
+  "arp-kirishima": {
+    "name": "ARP Kirishima",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "I",
+    "premium": true
+  },
+  "arp-musashi": {
+    "name": "ARP Musashi",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": true
+  },
+  "arp-nachi": {
+    "name": "ARP Nachi",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "asashio": {
+    "name": "Asashio",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "asashio-b": {
+    "name": "Asashio B",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "ashitaka": {
+    "name": "Ashitaka",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": true
+  },
+  "asturias": {
+    "name": "Asturias",
+    "nation": "Spain",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": false
+  },
+  "atago": {
+    "name": "Atago",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "atlanta": {
+    "name": "Atlanta",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "atlantico": {
+    "name": "Atlântico",
+    "nation": "Pan",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "august-von-parseval": {
+    "name": "August von Parseval",
+    "nation": "Germany",
+    "class": "Aircraft Carrier",
+    "tier": "VII",
+    "premium": false
+  },
+  "aurora": {
+    "name": "Aurora",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": true
+  },
+  "aviere": {
+    "name": "Aviere",
+    "nation": "Italy",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": false
+  },
+  "azuma": {
+    "name": "Azuma",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "ba-binah": {
+    "name": "BA Binah",
+    "nation": "Italy",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": true
+  },
+  "ba-hovercraft": {
+    "name": "BA Hovercraft",
+    "nation": "U.S.S.R.",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "ba-montana": {
+    "name": "BA Montana",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "★",
+    "premium": true
+  },
+  "ba-tirpitz": {
+    "name": "BA Tirpitz",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "ba-utnapishtims-ship": {
+    "name": "BA Utnapishtim&#x27;s Ship",
+    "nation": "France",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": true
+  },
+  "baleares": {
+    "name": "Baleares",
+    "nation": "Spain",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": false
+  },
+  "baltimore": {
+    "name": "Baltimore",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": false
+  },
+  "bayard": {
+    "name": "Bayard",
+    "nation": "France",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "bayern": {
+    "name": "Bayern",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": false
+  },
+  "belfast": {
+    "name": "Belfast",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "belfast-43": {
+    "name": "Belfast 43",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "bellerophon": {
+    "name": "Bellerophon",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "III",
+    "premium": true
+  },
+  "benham": {
+    "name": "Benham",
+    "nation": "U.S.A.",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "benson": {
+    "name": "Benson",
+    "nation": "U.S.A.",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": false
+  },
+  "bismarck": {
+    "name": "Bismarck",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": false
+  },
+  "bismarck-b": {
+    "name": "Bismarck B",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "black": {
+    "name": "Black",
+    "nation": "U.S.A.",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": true
+  },
+  "black-b": {
+    "name": "Black B",
+    "nation": "U.S.A.",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": true
+  },
+  "blazing-dread": {
+    "name": "Blazing Dread",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "blyskawica": {
+    "name": "Błyskawica",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "boevoi": {
+    "name": "Boevoi",
+    "nation": "U.S.S.R.",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": false
+  },
+  "bogatyr": {
+    "name": "Bogatyr",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": false
+  },
+  "boise": {
+    "name": "Boise",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "borodino": {
+    "name": "Borodino",
+    "nation": "U.S.S.R.",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "bourgogne": {
+    "name": "Bourgogne",
+    "nation": "France",
+    "class": "Battleship",
+    "tier": "★",
+    "premium": true
+  },
+  "bourrasque": {
+    "name": "Bourrasque",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "III",
+    "premium": false
+  },
+  "brandenburg": {
+    "name": "Brandenburg",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "brest": {
+    "name": "Brest",
+    "nation": "France",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": false
+  },
+  "bretange": {
+    "name": "Bretange",
+    "nation": "France",
+    "class": "Battleship",
+    "tier": "I",
+    "premium": false
+  },
+  "brindisi": {
+    "name": "Brindisi",
+    "nation": "Italy",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": false
+  },
+  "brisbane": {
+    "name": "Brisbane",
+    "nation": "Commonwealth",
+    "class": "Cruiser",
+    "tier": "★",
+    "premium": true
+  },
+  "brisbane-black": {
+    "name": "Brisbane Black",
+    "nation": "Commonwealth",
+    "class": "Cruiser",
+    "tier": "★",
+    "premium": true
+  },
+  "budyonny": {
+    "name": "Budyonny",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": false
+  },
+  "buffalo": {
+    "name": "Buffalo",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": false
+  },
+  "bulletproof": {
+    "name": "Bulletproof",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "c-colombo": {
+    "name": "C. Colombo",
+    "nation": "Italy",
+    "class": "Battleship",
+    "tier": "★",
+    "premium": true
+  },
+  "caledon": {
+    "name": "Caledon",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": false
+  },
+  "california": {
+    "name": "California",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": true
+  },
+  "campbeltown": {
+    "name": "Campbeltown",
+    "nation": "U.K.",
+    "class": "Destroyer",
+    "tier": "II",
+    "premium": true
+  },
+  "caprice": {
+    "name": "Caprice",
+    "nation": "U.K.",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": true
+  },
+  "carnot": {
+    "name": "Carnot",
+    "nation": "France",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": true
+  },
+  "castilla": {
+    "name": "Castilla",
+    "nation": "Spain",
+    "class": "Cruiser",
+    "tier": "★",
+    "premium": true
+  },
+  "cataluna": {
+    "name": "Cataluña",
+    "nation": "Spain",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": false
+  },
+  "cavour": {
+    "name": "Cavour",
+    "nation": "Italy",
+    "class": "Battleship",
+    "tier": "I",
+    "premium": false
+  },
+  "celebes": {
+    "name": "Celebes",
+    "nation": "The Netherlands",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "celtic": {
+    "name": "Celtic",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "centurion": {
+    "name": "Centurion",
+    "nation": "Italy",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": true
+  },
+  "champagne": {
+    "name": "Champagne",
+    "nation": "France",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "chapayev": {
+    "name": "Chapayev",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": false
+  },
+  "charlemagne": {
+    "name": "Charlemagne",
+    "nation": "France",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "charles-hughes": {
+    "name": "Charles Hughes",
+    "nation": "U.S.A.",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "charles-martel": {
+    "name": "Charles Martel",
+    "nation": "France",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": false
+  },
+  "charleston": {
+    "name": "Charleston",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": true
+  },
+  "charleston-m": {
+    "name": "Charleston M",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": true
+  },
+  "cherbourg": {
+    "name": "Cherbourg",
+    "nation": "France",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": false
+  },
+  "cheshire": {
+    "name": "Cheshire",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "chikuma": {
+    "name": "Chikuma",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "chkalov": {
+    "name": "Chkalov",
+    "nation": "U.S.S.R.",
+    "class": "Aircraft Carrier",
+    "tier": "VII",
+    "premium": true
+  },
+  "chumphon": {
+    "name": "Chumphon",
+    "nation": "Pan",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": false
+  },
+  "chung-mu": {
+    "name": "Chung Mu",
+    "nation": "Pan",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": false
+  },
+  "chungking": {
+    "name": "Chungking",
+    "nation": "Pan",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "clemson": {
+    "name": "Clemson",
+    "nation": "U.S.A.",
+    "class": "Destroyer",
+    "tier": "III",
+    "premium": false
+  },
+  "cleveland": {
+    "name": "Cleveland",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": false
+  },
+  "colbert": {
+    "name": "Colbert",
+    "nation": "France",
+    "class": "Cruiser",
+    "tier": "★",
+    "premium": true
+  },
+  "collingwood": {
+    "name": "Collingwood",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": true
+  },
+  "colorado": {
+    "name": "Colorado",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": false
+  },
+  "congress": {
+    "name": "Congress",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "connecticut": {
+    "name": "Connecticut",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": false
+  },
+  "conqueror": {
+    "name": "Conqueror",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "★",
+    "premium": true
+  },
+  "constellation": {
+    "name": "Constellation",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "constellation-w": {
+    "name": "Constellation W",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "cossack": {
+    "name": "Cossack",
+    "nation": "U.K.",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "cossack-38": {
+    "name": "Cossack 38",
+    "nation": "U.K.",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "courbet": {
+    "name": "Courbet",
+    "nation": "France",
+    "class": "Battleship",
+    "tier": "III",
+    "premium": false
+  },
+  "courbet-1944": {
+    "name": "Courbet 1944",
+    "nation": "France",
+    "class": "Battleship",
+    "tier": "III",
+    "premium": true
+  },
+  "cross-of-dorn": {
+    "name": "Cross of Dorn",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "cyclone": {
+    "name": "Cyclone",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "I",
+    "premium": true
+  },
+  "d-kyr": {
+    "name": "D&#x27;kyr",
+    "nation": "France",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": true
+  },
+  "daisen": {
+    "name": "Daisen",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": true
+  },
+  "dalian": {
+    "name": "Dalian",
+    "nation": "Pan",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": true
+  },
+  "dallas": {
+    "name": "Dallas",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": false
+  },
+  "danae": {
+    "name": "Danae",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "III",
+    "premium": false
+  },
+  "dante-alighieri": {
+    "name": "Dante Alighieri",
+    "nation": "Italy",
+    "class": "Battleship",
+    "tier": "III",
+    "premium": false
+  },
+  "dante-alighieri-b": {
+    "name": "Dante Alighieri B",
+    "nation": "Italy",
+    "class": "Battleship",
+    "tier": "III",
+    "premium": true
+  },
+  "daring": {
+    "name": "Daring",
+    "nation": "U.K.",
+    "class": "Destroyer",
+    "tier": "★",
+    "premium": true
+  },
+  "de-grasse": {
+    "name": "De Grasse",
+    "nation": "France",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": true
+  },
+  "de-ruyter": {
+    "name": "De Ruyter",
+    "nation": "The Netherlands",
+    "class": "Cruiser",
+    "tier": "III",
+    "premium": false
+  },
+  "de-zeven-provincien": {
+    "name": "De Zeven Provinciën",
+    "nation": "The Netherlands",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "defence": {
+    "name": "Defence",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "★",
+    "premium": true
+  },
+  "delaware": {
+    "name": "Delaware",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": false
+  },
+  "delny": {
+    "name": "Delny",
+    "nation": "U.S.S.R.",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": false
+  },
+  "derfflinger": {
+    "name": "Derfflinger",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "I",
+    "premium": false
+  },
+  "derzki": {
+    "name": "Derzki",
+    "nation": "U.S.S.R.",
+    "class": "Destroyer",
+    "tier": "II",
+    "premium": false
+  },
+  "des-moines": {
+    "name": "Des Moines",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "★",
+    "premium": true
+  },
+  "desert-falcon": {
+    "name": "Desert Falcon",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": true
+  },
+  "devonshire": {
+    "name": "Devonshire",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": false
+  },
+  "dewa": {
+    "name": "Dewa",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": false
+  },
+  "dido": {
+    "name": "Dido",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": true
+  },
+  "dm-donskoi": {
+    "name": "Dm. Donskoi",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": false
+  },
+  "dmitry-pozharsky": {
+    "name": "Dmitry Pozharsky",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "drake": {
+    "name": "Drake",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": false
+  },
+  "dresden": {
+    "name": "Dresden",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "druid": {
+    "name": "Druid",
+    "nation": "U.K.",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": true
+  },
+  "duca-d-aosta": {
+    "name": "Duca DAosta",
+    "nation": "Italy",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": true
+  },
+  "duca-degli-abruzzi": {
+    "name": "Abruzzi",
+    "nation": "Italy",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "duchaffault": {
+    "name": "Duchaffault",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": false
+  },
+  "duguay-trouin": {
+    "name": "Duguay-Trouin",
+    "nation": "France",
+    "class": "Cruiser",
+    "tier": "III",
+    "premium": false
+  },
+  "duke-of-york": {
+    "name": "Duke of York",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": true
+  },
+  "duncan": {
+    "name": "Duncan",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": false
+  },
+  "dunkerque": {
+    "name": "Dunkerque",
+    "nation": "France",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": true
+  },
+  "dunkerque-b": {
+    "name": "Dunkerque B",
+    "nation": "France",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": true
+  },
+  "dupleix": {
+    "name": "Dupleix",
+    "nation": "France",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": true
+  },
+  "edinburgh": {
+    "name": "Edinburgh",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": false
+  },
+  "eendracht": {
+    "name": "Eendracht",
+    "nation": "The Netherlands",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": false
+  },
+  "elbing": {
+    "name": "Elbing",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": true
+  },
+  "elephant": {
+    "name": "Elephant",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "emerald": {
+    "name": "Emerald",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "emile-bertin": {
+    "name": "Emile Bertin",
+    "nation": "France",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "en-gabolde": {
+    "name": "En. Gabolde",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "II",
+    "premium": true
+  },
+  "en-gabolde-w": {
+    "name": "En. Gabolde W",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "II",
+    "premium": true
+  },
+  "enterprise": {
+    "name": "Enterprise",
+    "nation": "U.S.A.",
+    "class": "Aircraft Carrier",
+    "tier": "VII",
+    "premium": true
+  },
+  "erie": {
+    "name": "Erie",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": true
+  },
+  "exeter": {
+    "name": "Exeter",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": true
+  },
+  "f-der-grosser": {
+    "name": "F. Der Große",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": false
+  },
+  "f-schultz": {
+    "name": "F. Schultz",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": false
+  },
+  "farragut": {
+    "name": "Farragut",
+    "nation": "U.S.A.",
+    "class": "Destroyer",
+    "tier": "I",
+    "premium": false
+  },
+  "fenyang": {
+    "name": "Fenyang",
+    "nation": "Pan",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "fiji": {
+    "name": "Fiji",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": false
+  },
+  "flandre": {
+    "name": "Flandre",
+    "nation": "France",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "fletcher": {
+    "name": "Fletcher",
+    "nation": "U.S.A.",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": false
+  },
+  "flint": {
+    "name": "Flint",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "florida": {
+    "name": "Florida",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": true
+  },
+  "fr25": {
+    "name": "FR25",
+    "nation": "Italy",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "francesco-caracciolo": {
+    "name": "Francesco Caracciolo",
+    "nation": "Italy",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": false
+  },
+  "francesco-ferruccio": {
+    "name": "Francesco Ferruccio",
+    "nation": "Italy",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "friant": {
+    "name": "Friant",
+    "nation": "France",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": false
+  },
+  "friesland": {
+    "name": "Friesland",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": true
+  },
+  "fubuki": {
+    "name": "Fubuki",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": false
+  },
+  "furious": {
+    "name": "Furious",
+    "nation": "U.K.",
+    "class": "Aircraft Carrier",
+    "tier": "V",
+    "premium": false
+  },
+  "furutaka": {
+    "name": "Furutaka",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "fushun": {
+    "name": "Fushun",
+    "nation": "Pan",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": false
+  },
+  "fusilier": {
+    "name": "Fusilier",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "II",
+    "premium": false
+  },
+  "fuso": {
+    "name": "Fusō",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": false
+  },
+  "g-101": {
+    "name": "G-101",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "III",
+    "premium": true
+  },
+  "g-j-maerker": {
+    "name": "G. J. Maerker",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": false
+  },
+  "gadjah-mada": {
+    "name": "Gadjah Mada",
+    "nation": "Pan",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": false
+  },
+  "gaede": {
+    "name": "Gaede",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": false
+  },
+  "galicia": {
+    "name": "Galicia",
+    "nation": "Spain",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "gallant": {
+    "name": "Gallant",
+    "nation": "U.K.",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": true
+  },
+  "gangut": {
+    "name": "Gangut",
+    "nation": "U.S.S.R.",
+    "class": "Battleship",
+    "tier": "III",
+    "premium": false
+  },
+  "gascogne": {
+    "name": "Gascogne",
+    "nation": "France",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "gdansk": {
+    "name": "Gdańsk",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "★",
+    "premium": true
+  },
+  "gearing": {
+    "name": "Gearing",
+    "nation": "U.S.A.",
+    "class": "Destroyer",
+    "tier": "★",
+    "premium": true
+  },
+  "gelderland": {
+    "name": "Gelderland",
+    "nation": "The Netherlands",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "genova": {
+    "name": "Genova",
+    "nation": "Italy",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": true
+  },
+  "georgia": {
+    "name": "Georgia",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "giulio-cesare": {
+    "name": "Giulio Cesare",
+    "nation": "Italy",
+    "class": "Battleship",
+    "tier": "I",
+    "premium": true
+  },
+  "giuseppe-verdi": {
+    "name": "Giuseppe Verdi",
+    "nation": "Italy",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": true
+  },
+  "giussano": {
+    "name": "Giussano",
+    "nation": "Italy",
+    "class": "Cruiser",
+    "tier": "III",
+    "premium": false
+  },
+  "gneisenau": {
+    "name": "Gneisenau",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": false
+  },
+  "gnevny": {
+    "name": "Gnevny",
+    "nation": "U.S.S.R.",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": false
+  },
+  "gokase": {
+    "name": "Gokase",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": false
+  },
+  "gorizia": {
+    "name": "Gorizia",
+    "nation": "Italy",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "gorky": {
+    "name": "Gorky",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": false
+  },
+  "gouden-leeuw": {
+    "name": "Gouden Leeuw",
+    "nation": "The Netherlands",
+    "class": "Cruiser",
+    "tier": "★",
+    "premium": true
+  },
+  "graf-spee": {
+    "name": "Graf Spee",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": true
+  },
+  "graf-zeppelin": {
+    "name": "Graf Zeppelin",
+    "nation": "Germany",
+    "class": "Aircraft Carrier",
+    "tier": "VII",
+    "premium": true
+  },
+  "graf-zeppelin-black": {
+    "name": "Graf Zeppelin Black",
+    "nation": "Germany",
+    "class": "Aircraft Carrier",
+    "tier": "VII",
+    "premium": true
+  },
+  "gremyashchy": {
+    "name": "Gremyashchy",
+    "nation": "U.S.S.R.",
+    "class": "Destroyer",
+    "tier": "I",
+    "premium": true
+  },
+  "grom": {
+    "name": "Grom",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": false
+  },
+  "grosser-kurfurst": {
+    "name": "Großer Kurfürst",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "★",
+    "premium": true
+  },
+  "gryf": {
+    "name": "Gryf",
+    "nation": "Europe",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "guepard": {
+    "name": "Guépard",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": false
+  },
+  "guepard-w": {
+    "name": "Guépard W",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": true
+  },
+  "haarlem": {
+    "name": "Haarlem",
+    "nation": "The Netherlands",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": false
+  },
+  "haida": {
+    "name": "Haida",
+    "nation": "Commonwealth",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": true
+  },
+  "hakuryu": {
+    "name": "Hakuryū",
+    "nation": "Japan",
+    "class": "Aircraft Carrier",
+    "tier": "★",
+    "premium": true
+  },
+  "halland": {
+    "name": "Halland",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "★",
+    "premium": true
+  },
+  "hampshire": {
+    "name": "Hampshire",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "harbin": {
+    "name": "Harbin",
+    "nation": "Pan",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": false
+  },
+  "hatsuharu": {
+    "name": "Hatsuharu",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": false
+  },
+  "hawke": {
+    "name": "Hawke",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": false
+  },
+  "hawkins": {
+    "name": "Hawkins",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "hayate": {
+    "name": "Hayate",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": true
+  },
+  "hector": {
+    "name": "Hector",
+    "nation": "Commonwealth",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": true
+  },
+  "helena": {
+    "name": "Helena",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": false
+  },
+  "henri-iv": {
+    "name": "Henri IV",
+    "nation": "France",
+    "class": "Cruiser",
+    "tier": "★",
+    "premium": true
+  },
+  "hermes": {
+    "name": "Hermes",
+    "nation": "U.K.",
+    "class": "Aircraft Carrier",
+    "tier": "III",
+    "premium": false
+  },
+  "hermes-w": {
+    "name": "Hermes W",
+    "nation": "U.K.",
+    "class": "Aircraft Carrier",
+    "tier": "III",
+    "premium": true
+  },
+  "hill": {
+    "name": "Hill",
+    "nation": "U.S.A.",
+    "class": "Destroyer",
+    "tier": "I",
+    "premium": true
+  },
+  "hindenburg": {
+    "name": "Hindenburg",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "★",
+    "premium": true
+  },
+  "hipper": {
+    "name": "Hipper",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": false
+  },
+  "hizen": {
+    "name": "Hizen",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": true
+  },
+  "hood": {
+    "name": "Hood",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": true
+  },
+  "hosho": {
+    "name": "Hōshō",
+    "nation": "Japan",
+    "class": "Aircraft Carrier",
+    "tier": "III",
+    "premium": false
+  },
+  "hsienyang": {
+    "name": "Hsienyang",
+    "nation": "Pan",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": false
+  },
+  "huanghe": {
+    "name": "Huanghe",
+    "nation": "Pan",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": true
+  },
+  "huron": {
+    "name": "Huron",
+    "nation": "Commonwealth",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": true
+  },
+  "hyuga": {
+    "name": "Hyuga",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": true
+  },
+  "ibuki": {
+    "name": "Ibuki",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": false
+  },
+  "ibuki-b": {
+    "name": "Ibuki B",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": true
+  },
+  "icarus": {
+    "name": "Icarus",
+    "nation": "U.K.",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": false
+  },
+  "ignis-purgato": {
+    "name": "Ignis Purgato",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": true
+  },
+  "iks-bortas": {
+    "name": "I.K.S. Bortas",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "implacable": {
+    "name": "Implacable",
+    "nation": "U.K.",
+    "class": "Aircraft Carrier",
+    "tier": "VII",
+    "premium": false
+  },
+  "incomparable": {
+    "name": "Incomparable",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "★",
+    "premium": true
+  },
+  "incomparable-se-25": {
+    "name": "Incomparable SE 25",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "★",
+    "premium": true
+  },
+  "indefatigable": {
+    "name": "Indefatigable",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "I",
+    "premium": true
+  },
+  "independence": {
+    "name": "Independence",
+    "nation": "U.S.A.",
+    "class": "Aircraft Carrier",
+    "tier": "V",
+    "premium": true
+  },
+  "indianapolis": {
+    "name": "Indianapolis",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "iowa": {
+    "name": "Iowa",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": false
+  },
+  "irian": {
+    "name": "Irian",
+    "nation": "Pan",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "iron-duke": {
+    "name": "Iron Duke",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "I",
+    "premium": false
+  },
+  "ise": {
+    "name": "Ise",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": false
+  },
+  "ishizuchi": {
+    "name": "Ishizuchi",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "III",
+    "premium": false
+  },
+  "isokaze": {
+    "name": "Isokaze",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "III",
+    "premium": false
+  },
+  "iwaki": {
+    "name": "Iwaki",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "III",
+    "premium": true
+  },
+  "iwami": {
+    "name": "Iwami",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": true
+  },
+  "iwami-b": {
+    "name": "Iwami B",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": true
+  },
+  "izmail": {
+    "name": "Izmail",
+    "nation": "U.S.S.R.",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": false
+  },
+  "izumo": {
+    "name": "Izumo",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": false
+  },
+  "izyaslav": {
+    "name": "Izyaslav",
+    "nation": "U.S.S.R.",
+    "class": "Destroyer",
+    "tier": "III",
+    "premium": false
+  },
+  "jager": {
+    "name": "Jäger",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": true
+  },
+  "jaguar": {
+    "name": "Jaguar",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "I",
+    "premium": false
+  },
+  "java": {
+    "name": "Java",
+    "nation": "The Netherlands",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": false
+  },
+  "jean-bart": {
+    "name": "Jean Bart",
+    "nation": "France",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "jervis": {
+    "name": "Jervis",
+    "nation": "U.K.",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": false
+  },
+  "jianwei": {
+    "name": "Jianwei",
+    "nation": "Pan",
+    "class": "Destroyer",
+    "tier": "I",
+    "premium": false
+  },
+  "jinan": {
+    "name": "Jinan",
+    "nation": "Pan",
+    "class": "Cruiser",
+    "tier": "★",
+    "premium": true
+  },
+  "johan-de-witt": {
+    "name": "Johan de Witt",
+    "nation": "The Netherlands",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": false
+  },
+  "jupiter": {
+    "name": "Júpiter",
+    "nation": "Spain",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "jurien": {
+    "name": "Jurien",
+    "nation": "France",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "jurua": {
+    "name": "Juruá",
+    "nation": "Pan",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": true
+  },
+  "jutland": {
+    "name": "Jutland",
+    "nation": "U.K.",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": false
+  },
+  "k-albert": {
+    "name": "K. Albert",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "III",
+    "premium": true
+  },
+  "k-schonberg": {
+    "name": "Karl von Schönberg",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": true
+  },
+  "kaga": {
+    "name": "Kaga",
+    "nation": "Japan",
+    "class": "Aircraft Carrier",
+    "tier": "VII",
+    "premium": true
+  },
+  "kagero": {
+    "name": "Kagerō",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": false
+  },
+  "kaiser": {
+    "name": "Kaiser",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "III",
+    "premium": false
+  },
+  "kamikaze": {
+    "name": "Kamikaze",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "I",
+    "premium": true
+  },
+  "kansas": {
+    "name": "Kansas",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": false
+  },
+  "karl-xiv-johan": {
+    "name": "Karl XIV Johan",
+    "nation": "Europe",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": true
+  },
+  "karlsruhe": {
+    "name": "Karlsruhe",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "III",
+    "premium": false
+  },
+  "katori": {
+    "name": "Katori",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": true
+  },
+  "kawachi": {
+    "name": "Kawachi",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "III",
+    "premium": true
+  },
+  "khabarovsk": {
+    "name": "Khabarovsk",
+    "nation": "U.S.S.R.",
+    "class": "Destroyer",
+    "tier": "★",
+    "premium": true
+  },
+  "kheper": {
+    "name": "Kheper",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": true
+  },
+  "kidd": {
+    "name": "Kidd",
+    "nation": "U.S.A.",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "kiev": {
+    "name": "Kiev",
+    "nation": "U.S.S.R.",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": false
+  },
+  "kii": {
+    "name": "Kii",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "kijkduin": {
+    "name": "Kijkduin",
+    "nation": "The Netherlands",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": false
+  },
+  "king-george-v": {
+    "name": "King George V",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": false
+  },
+  "kirisame": {
+    "name": "Kirisame",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": true
+  },
+  "kirov": {
+    "name": "Kirov",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "kitakaze": {
+    "name": "Kitakaze",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": false
+  },
+  "klas-horn": {
+    "name": "Klas Horn",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "III",
+    "premium": false
+  },
+  "kleber": {
+    "name": "Kleber",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "★",
+    "premium": true
+  },
+  "kolberg": {
+    "name": "Kolberg",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": false
+  },
+  "komsomolets": {
+    "name": "Komsomolets",
+    "nation": "U.S.S.R.",
+    "class": "Aircraft Carrier",
+    "tier": "III",
+    "premium": false
+  },
+  "kongo": {
+    "name": "Kongō",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "I",
+    "premium": false
+  },
+  "konig": {
+    "name": "König",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "I",
+    "premium": false
+  },
+  "konig-albert": {
+    "name": "Konig Albert",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "III",
+    "premium": true
+  },
+  "konigsberg": {
+    "name": "Königsberg",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "kotovsky": {
+    "name": "Kotovsky",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "krasny-krym": {
+    "name": "Krasny Krym",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": true
+  },
+  "kremlin": {
+    "name": "Kremlin",
+    "nation": "U.S.S.R.",
+    "class": "Battleship",
+    "tier": "★",
+    "premium": true
+  },
+  "kronshtadt": {
+    "name": "Kronshtadt",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": true
+  },
+  "kuma": {
+    "name": "Kuma",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "III",
+    "premium": false
+  },
+  "kutuzov": {
+    "name": "Kutuzov",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "kutuzov-w": {
+    "name": "Kutuzov W",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "l-adroit": {
+    "name": "L&#x27;Adroit",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "I",
+    "premium": false
+  },
+  "l-aventurier": {
+    "name": "L&#x27;Aventurier",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": false
+  },
+  "la-foudre": {
+    "name": "La Foudre",
+    "nation": "France",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "la-galissoniere": {
+    "name": "La Galissoniere",
+    "nation": "France",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": false
+  },
+  "la-perla-azul": {
+    "name": "La Perla Azul",
+    "nation": "Europe",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "laffey": {
+    "name": "Laffey",
+    "nation": "U.S.A.",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": true
+  },
+  "lambros-katsonis": {
+    "name": "Lambros Katsonis",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": false
+  },
+  "langley": {
+    "name": "Langley",
+    "nation": "U.S.A.",
+    "class": "Aircraft Carrier",
+    "tier": "III",
+    "premium": false
+  },
+  "lazo": {
+    "name": "Lazo",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "le-fantasque": {
+    "name": "Le Fantasque",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": false
+  },
+  "le-glorieux": {
+    "name": "Le Glorieux",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": true
+  },
+  "le-hardi": {
+    "name": "Le Hardi",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": false
+  },
+  "le-terrible": {
+    "name": "Le Terrible",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "leander": {
+    "name": "Leander",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": false
+  },
+  "leipzig": {
+    "name": "Leipzig",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "lenin": {
+    "name": "Lenin",
+    "nation": "U.S.S.R.",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "leningrad": {
+    "name": "Leningrad",
+    "nation": "U.S.S.R.",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "leone": {
+    "name": "Leone",
+    "nation": "Italy",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": true
+  },
+  "lepanto": {
+    "name": "Lepanto",
+    "nation": "Italy",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": false
+  },
+  "lexington": {
+    "name": "Lexington",
+    "nation": "U.S.A.",
+    "class": "Aircraft Carrier",
+    "tier": "VII",
+    "premium": false
+  },
+  "lightning": {
+    "name": "Lightning",
+    "nation": "U.K.",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": false
+  },
+  "lion": {
+    "name": "Lion",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "london": {
+    "name": "London",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": true
+  },
+  "louisiana": {
+    "name": "Louisiana",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "★",
+    "premium": true
+  },
+  "loyang": {
+    "name": "Loyang",
+    "nation": "Pan",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": true
+  },
+  "luca-tarigo": {
+    "name": "Luca Tarigo",
+    "nation": "Italy",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": false
+  },
+  "lugdunum": {
+    "name": "Lugdunum",
+    "nation": "Europe",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": true
+  },
+  "lushun": {
+    "name": "Lushun",
+    "nation": "Pan",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": true
+  },
+  "lyon": {
+    "name": "Lyon",
+    "nation": "France",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": false
+  },
+  "maass": {
+    "name": "Maass",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": false
+  },
+  "mackensen": {
+    "name": "Mackensen",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": false
+  },
+  "madness": {
+    "name": "Madness",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "maestrale": {
+    "name": "Maestrale",
+    "nation": "Italy",
+    "class": "Destroyer",
+    "tier": "I",
+    "premium": false
+  },
+  "mahan": {
+    "name": "Mahan",
+    "nation": "U.S.A.",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": false
+  },
+  "mahtaga": {
+    "name": "Mahtaga",
+    "nation": "U.S.S.R.",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": true
+  },
+  "maine": {
+    "name": "Maine",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": false
+  },
+  "mainz": {
+    "name": "Mainz",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "mainz-ce": {
+    "name": "Mainz CE",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "makarov": {
+    "name": "Makarov",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": true
+  },
+  "marblehead": {
+    "name": "Marblehead",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": true
+  },
+  "marceau": {
+    "name": "Marceau",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": true
+  },
+  "marceau-se-25": {
+    "name": "Marceau SE 25",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": true
+  },
+  "marco-polo": {
+    "name": "Marco Polo",
+    "nation": "Italy",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": true
+  },
+  "marlborough": {
+    "name": "Marlborough",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": true
+  },
+  "massachusetts": {
+    "name": "Massachusetts",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "maya": {
+    "name": "Maya",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "medea": {
+    "name": "Medea",
+    "nation": "U.K.",
+    "class": "Destroyer",
+    "tier": "II",
+    "premium": true
+  },
+  "mendez-nunez": {
+    "name": "Méndez Núñez",
+    "nation": "Spain",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": true
+  },
+  "michelangelo": {
+    "name": "Michelangelo",
+    "nation": "Italy",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": true
+  },
+  "midway": {
+    "name": "Midway",
+    "nation": "U.S.A.",
+    "class": "Aircraft Carrier",
+    "tier": "★",
+    "premium": true
+  },
+  "mikasa": {
+    "name": "Mikasa",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": true
+  },
+  "mikasa-23": {
+    "name": "Mikasa &#x27;23",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": true
+  },
+  "minegumo": {
+    "name": "Minegumo",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": true
+  },
+  "minekaze": {
+    "name": "Minekaze",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "I",
+    "premium": false
+  },
+  "minnesota": {
+    "name": "Minnesota",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": false
+  },
+  "minotaur": {
+    "name": "Minotaur",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "★",
+    "premium": true
+  },
+  "minsk": {
+    "name": "Minsk",
+    "nation": "U.S.S.R.",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": false
+  },
+  "mirage": {
+    "name": "Mirage",
+    "nation": "Italy",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "missouri": {
+    "name": "Missouri",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "mogador": {
+    "name": "Mogador",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": false
+  },
+  "mogami": {
+    "name": "Mogami",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": false
+  },
+  "molotov": {
+    "name": "Molotov",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": true
+  },
+  "moltke": {
+    "name": "Moltke",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "I",
+    "premium": true
+  },
+  "monaghan": {
+    "name": "Monaghan",
+    "nation": "U.S.A.",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": true
+  },
+  "monarch": {
+    "name": "Monarch",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "montana": {
+    "name": "Montana",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "★",
+    "premium": true
+  },
+  "montecuccoli": {
+    "name": "Montecuccoli",
+    "nation": "Italy",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "muavenet": {
+    "name": "Muavenet",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "I",
+    "premium": false
+  },
+  "munchen": {
+    "name": "München",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "munchen-black": {
+    "name": "München Black",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "murmansk": {
+    "name": "Murmansk",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": true
+  },
+  "musashi": {
+    "name": "Musashi",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": true
+  },
+  "mutsu": {
+    "name": "Mutsu",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": true
+  },
+  "mutsuki": {
+    "name": "Mutsuki",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "I",
+    "premium": false
+  },
+  "myogi": {
+    "name": "Myogi",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "I",
+    "premium": true
+  },
+  "myoko": {
+    "name": "Myōkō",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": false
+  },
+  "mysore": {
+    "name": "Mysore",
+    "nation": "Commonwealth",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": true
+  },
+  "nagato": {
+    "name": "Nagato",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": false
+  },
+  "napoli": {
+    "name": "Napoli",
+    "nation": "Italy",
+    "class": "Cruiser",
+    "tier": "★",
+    "premium": true
+  },
+  "napoli-b": {
+    "name": "Napoli B",
+    "nation": "Italy",
+    "class": "Cruiser",
+    "tier": "★",
+    "premium": true
+  },
+  "nassau": {
+    "name": "Nassau",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "III",
+    "premium": true
+  },
+  "navarin": {
+    "name": "Navarin",
+    "nation": "U.S.S.R.",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": true
+  },
+  "navarra": {
+    "name": "Navarra",
+    "nation": "Spain",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": false
+  },
+  "nazario-sauro": {
+    "name": "Nazario Sauro",
+    "nation": "Italy",
+    "class": "Destroyer",
+    "tier": "II",
+    "premium": false
+  },
+  "nebraska": {
+    "name": "Nebraska",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": false
+  },
+  "nelson": {
+    "name": "Nelson",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": true
+  },
+  "nelson-w": {
+    "name": "Nelson W",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": true
+  },
+  "neptune": {
+    "name": "Neptune",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": false
+  },
+  "neustrashimy": {
+    "name": "Neustrashimy",
+    "nation": "U.S.S.R.",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": false
+  },
+  "nevada": {
+    "name": "Nevada",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "I",
+    "premium": false
+  },
+  "new-mexico": {
+    "name": "New Mexico",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": false
+  },
+  "new-orleans": {
+    "name": "New Orleans",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": false
+  },
+  "new-orleans-w": {
+    "name": "New Orleans W",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "new-york": {
+    "name": "New York",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "I",
+    "premium": false
+  },
+  "nikolai-i": {
+    "name": "Nikolai I",
+    "nation": "U.S.S.R.",
+    "class": "Battleship",
+    "tier": "I",
+    "premium": true
+  },
+  "nino-bixio": {
+    "name": "Nino Bixio",
+    "nation": "Italy",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "niord": {
+    "name": "Niord",
+    "nation": "Europe",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": true
+  },
+  "normandie": {
+    "name": "Normandie",
+    "nation": "France",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": false
+  },
+  "north-carolina": {
+    "name": "North Carolina",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": false
+  },
+  "northern-dragon": {
+    "name": "Northern Dragon",
+    "nation": "Pan",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": true
+  },
+  "nottingham": {
+    "name": "Nottingham",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "novik": {
+    "name": "Novik",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "nurnberg": {
+    "name": "Nürnberg",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": false
+  },
+  "ochakov": {
+    "name": "Ochakov",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "odin": {
+    "name": "Odin",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "ognevoi": {
+    "name": "Ognevoi",
+    "nation": "U.S.S.R.",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "ohio": {
+    "name": "Ohio",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "★",
+    "premium": true
+  },
+  "okhotnik": {
+    "name": "Okhotnik",
+    "nation": "U.S.S.R.",
+    "class": "Destroyer",
+    "tier": "I",
+    "premium": true
+  },
+  "oklahoma": {
+    "name": "Oklahoma",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "I",
+    "premium": true
+  },
+  "okt-revolutsiya": {
+    "name": "Okt. Revolutsiya",
+    "nation": "U.S.S.R.",
+    "class": "Battleship",
+    "tier": "I",
+    "premium": true
+  },
+  "oland": {
+    "name": "Öland",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "oleg": {
+    "name": "Oleg",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": true
+  },
+  "oleg-a": {
+    "name": "Oleg A",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": true
+  },
+  "omaha": {
+    "name": "Omaha",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "omono": {
+    "name": "Omono",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": false
+  },
+  "orage": {
+    "name": "Orage",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": false
+  },
+  "orion": {
+    "name": "Orion",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "III",
+    "premium": false
+  },
+  "orjen": {
+    "name": "Orjen",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "II",
+    "premium": true
+  },
+  "orkan": {
+    "name": "Orkan",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "orkan-w": {
+    "name": "Orkan W",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "ostergotland": {
+    "name": "Östergötland",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": false
+  },
+  "ostergotland-w": {
+    "name": "Östergötland W",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": true
+  },
+  "p-e-friedrich": {
+    "name": "P.E. Friedrich",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": true
+  },
+  "paolo-emilio": {
+    "name": "Paolo Emilio",
+    "nation": "Italy",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": true
+  },
+  "pensacola": {
+    "name": "Pensacola",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": false
+  },
+  "perfect-10": {
+    "name": "Perfect 10",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "perth": {
+    "name": "Perth",
+    "nation": "Commonwealth",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": true
+  },
+  "petropavlovsk": {
+    "name": "Petropavlovsk",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": false
+  },
+  "phoenix": {
+    "name": "Phoenix",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "III",
+    "premium": false
+  },
+  "phra-ruang": {
+    "name": "Phra Ruang",
+    "nation": "Pan",
+    "class": "Destroyer",
+    "tier": "II",
+    "premium": false
+  },
+  "picardie": {
+    "name": "Picardie",
+    "nation": "France",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "plymouth": {
+    "name": "Plymouth",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "pobeda": {
+    "name": "Pobeda",
+    "nation": "U.S.S.R.",
+    "class": "Aircraft Carrier",
+    "tier": "VII",
+    "premium": false
+  },
+  "podvoisky": {
+    "name": "Podvoisky",
+    "nation": "U.S.S.R.",
+    "class": "Destroyer",
+    "tier": "I",
+    "premium": false
+  },
+  "poltava": {
+    "name": "Poltava",
+    "nation": "U.S.S.R.",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": true
+  },
+  "pommern": {
+    "name": "Pommern",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": true
+  },
+  "pommern-b": {
+    "name": "Pommern B",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": true
+  },
+  "preussen": {
+    "name": "Preussen",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "★",
+    "premium": true
+  },
+  "prinz-eugen": {
+    "name": "Prinz Eugen",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "prinz-heinrich": {
+    "name": "P. Heinrich",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": false
+  },
+  "prinz-rupprecht": {
+    "name": "P. Rupprecht",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": false
+  },
+  "puerto-rico": {
+    "name": "Puerto Rico",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "★",
+    "premium": true
+  },
+  "pyotr-bagration": {
+    "name": "Pyotr Bagration",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "pyotr-velikiy": {
+    "name": "Pyotr Velikiy",
+    "nation": "U.S.S.R.",
+    "class": "Battleship",
+    "tier": "I",
+    "premium": false
+  },
+  "pytor-bagration-b": {
+    "name": "Pytor Bagration B",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "queen-elizabeth": {
+    "name": "Queen Elizabeth",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": false
+  },
+  "queen-mary": {
+    "name": "Queen Mary",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "I",
+    "premium": true
+  },
+  "ragnarok": {
+    "name": "Ragnarok",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": true
+  },
+  "rahmat": {
+    "name": "Rahmat",
+    "nation": "Pan",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": false
+  },
+  "ranger": {
+    "name": "Ranger",
+    "nation": "U.S.A.",
+    "class": "Aircraft Carrier",
+    "tier": "V",
+    "premium": false
+  },
+  "renown": {
+    "name": "Renown",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": false
+  },
+  "republique": {
+    "name": "République",
+    "nation": "France",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": true
+  },
+  "repulse": {
+    "name": "Repulse",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": true
+  },
+  "resistance": {
+    "name": "Resistance",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": true
+  },
+  "rhein": {
+    "name": "Rhein",
+    "nation": "Germany",
+    "class": "Aircraft Carrier",
+    "tier": "III",
+    "premium": false
+  },
+  "rhode-island": {
+    "name": "Rhode Island",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "★",
+    "premium": true
+  },
+  "richelieu": {
+    "name": "Richelieu",
+    "nation": "France",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": false
+  },
+  "riga": {
+    "name": "Riga",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": false
+  },
+  "rio-de-janeiro": {
+    "name": "Rio de Janeiro",
+    "nation": "Pan",
+    "class": "Battleship",
+    "tier": "I",
+    "premium": true
+  },
+  "rochester": {
+    "name": "Rochester",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "rodney": {
+    "name": "Rodney",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "roma": {
+    "name": "Roma",
+    "nation": "Italy",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "romulus": {
+    "name": "Romulus",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "II",
+    "premium": false
+  },
+  "rooke": {
+    "name": "Rooke",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": false
+  },
+  "roon": {
+    "name": "Roon",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": false
+  },
+  "ruggiero-di-lauria": {
+    "name": "Ruggiero di Lauria",
+    "nation": "Italy",
+    "class": "Battleship",
+    "tier": "★",
+    "premium": true
+  },
+  "ryujo": {
+    "name": "Ryūjō",
+    "nation": "Japan",
+    "class": "Aircraft Carrier",
+    "tier": "V",
+    "premium": false
+  },
+  "saint-louis": {
+    "name": "Saint-Louis",
+    "nation": "France",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": false
+  },
+  "saipan": {
+    "name": "Saipan",
+    "nation": "U.S.A.",
+    "class": "Aircraft Carrier",
+    "tier": "VII",
+    "premium": true
+  },
+  "salem": {
+    "name": "Salem",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": true
+  },
+  "sampson": {
+    "name": "Sampson",
+    "nation": "U.S.A.",
+    "class": "Destroyer",
+    "tier": "II",
+    "premium": true
+  },
+  "san-diego": {
+    "name": "San Diego",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "scarlet-thunder": {
+    "name": "Scarlet Thunder",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": true
+  },
+  "scharnhorst": {
+    "name": "Scharnhorst",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": true
+  },
+  "scharnhorst-43": {
+    "name": "Scharnhorst &#x27;43",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "schill": {
+    "name": "Schill",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "schlieffen": {
+    "name": "Schlieffen",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "★",
+    "premium": true
+  },
+  "schroder": {
+    "name": "Schröder",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": true
+  },
+  "seattle": {
+    "name": "Seattle",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": false
+  },
+  "sejong": {
+    "name": "Sejong",
+    "nation": "Pan",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": false
+  },
+  "serov": {
+    "name": "Serov",
+    "nation": "U.S.S.R.",
+    "class": "Aircraft Carrier",
+    "tier": "V",
+    "premium": false
+  },
+  "sevastopol": {
+    "name": "Sevastopol",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "★",
+    "premium": true
+  },
+  "sharki": {
+    "name": "Sharki",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "★",
+    "premium": true
+  },
+  "shchors": {
+    "name": "Shchors",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": false
+  },
+  "shenyang": {
+    "name": "Shenyang",
+    "nation": "Pan",
+    "class": "Destroyer",
+    "tier": "III",
+    "premium": false
+  },
+  "shi-an": {
+    "name": "Shi An",
+    "nation": "Pan",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "shimakaze": {
+    "name": "Shimakaze",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "★",
+    "premium": true
+  },
+  "shimanto": {
+    "name": "Shimanto",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": false
+  },
+  "shinonome": {
+    "name": "Shinonome",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": true
+  },
+  "ship-smasha": {
+    "name": "Ship Smasha",
+    "nation": "U.K.",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "shiratsuyu": {
+    "name": "Shiratsuyu",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": false
+  },
+  "shokaku": {
+    "name": "Shōkaku",
+    "nation": "Japan",
+    "class": "Aircraft Carrier",
+    "tier": "VII",
+    "premium": false
+  },
+  "siegfried": {
+    "name": "Siegfried",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "sims": {
+    "name": "Sims",
+    "nation": "U.S.A.",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "sims-black": {
+    "name": "Sims Black",
+    "nation": "U.S.A.",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "sinop": {
+    "name": "Sinop",
+    "nation": "U.S.S.R.",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": false
+  },
+  "siroco": {
+    "name": "Siroco",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "I",
+    "premium": true
+  },
+  "skane": {
+    "name": "Skåne",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": false
+  },
+  "smaland": {
+    "name": "Småland",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": false
+  },
+  "smith": {
+    "name": "Smith",
+    "nation": "U.S.A.",
+    "class": "Destroyer",
+    "tier": "II",
+    "premium": true
+  },
+  "somers-ce": {
+    "name": "Somers CE",
+    "nation": "U.S.A.",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": true
+  },
+  "somme": {
+    "name": "Somme",
+    "nation": "U.K.",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": true
+  },
+  "soobrazitelny": {
+    "name": "Soobrazitelny",
+    "nation": "U.S.S.R.",
+    "class": "Destroyer",
+    "tier": "I",
+    "premium": false
+  },
+  "south-carolina": {
+    "name": "South Carolina",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "III",
+    "premium": true
+  },
+  "sov-soyuz": {
+    "name": "Sov. Soyuz",
+    "nation": "U.S.S.R.",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": false
+  },
+  "split": {
+    "name": "Split",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": false
+  },
+  "st-louis": {
+    "name": "St. Louis",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": false
+  },
+  "stalingrad": {
+    "name": "Stalingrad",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "★",
+    "premium": true
+  },
+  "stord": {
+    "name": "Stord",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": false
+  },
+  "storozhevoi": {
+    "name": "Storozhevoi",
+    "nation": "U.S.S.R.",
+    "class": "Destroyer",
+    "tier": "II",
+    "premium": true
+  },
+  "strasbourg": {
+    "name": "Strasbourg",
+    "nation": "France",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": true
+  },
+  "surrey": {
+    "name": "Surrey",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": false
+  },
+  "suwo": {
+    "name": "Suwo",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": false
+  },
+  "suzuya": {
+    "name": "Suzuya",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "svietlana": {
+    "name": "Svietlana",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "III",
+    "premium": false
+  },
+  "t-22": {
+    "name": "T-22",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "I",
+    "premium": false
+  },
+  "t-61": {
+    "name": "T-61",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": true
+  },
+  "takahashi": {
+    "name": "Takahashi",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": false
+  },
+  "tallinn": {
+    "name": "Tallinn",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": false
+  },
+  "taranto": {
+    "name": "Taranto",
+    "nation": "Italy",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": false
+  },
+  "tashkent": {
+    "name": "Tashkent",
+    "nation": "U.S.S.R.",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": false
+  },
+  "tashkent-39": {
+    "name": "Tashkent &#x27;39",
+    "nation": "U.S.S.R.",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "temeraire": {
+    "name": "Temeraire",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": false
+  },
+  "tennessee": {
+    "name": "Tennessee",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": false
+  },
+  "tenryu": {
+    "name": "Tenryu",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": false
+  },
+  "texas": {
+    "name": "Texas",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "I",
+    "premium": true
+  },
+  "tiger": {
+    "name": "Tiger",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "I",
+    "premium": false
+  },
+  "tiger-59": {
+    "name": "Tiger 59",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "tirpitz": {
+    "name": "Tirpitz",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "tirpitz-b": {
+    "name": "Tirpitz B",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "tokachi": {
+    "name": "Tokachi",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "toulon": {
+    "name": "Toulon",
+    "nation": "France",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": false
+  },
+  "trento": {
+    "name": "Trento",
+    "nation": "Italy",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": false
+  },
+  "tsurugi": {
+    "name": "Tsurugi",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "tulsa": {
+    "name": "Tulsa",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": true
+  },
+  "turbine": {
+    "name": "Turbine",
+    "nation": "Italy",
+    "class": "Destroyer",
+    "tier": "III",
+    "premium": false
+  },
+  "turenne": {
+    "name": "Turenne",
+    "nation": "France",
+    "class": "Battleship",
+    "tier": "III",
+    "premium": true
+  },
+  "udaloi": {
+    "name": "Udaloi",
+    "nation": "U.S.S.R.",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": false
+  },
+  "uss-voyager": {
+    "name": "U.S.S. Voyager",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": true
+  },
+  "v-170": {
+    "name": "V-170",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "III",
+    "premium": false
+  },
+  "v-25": {
+    "name": "V-25",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "II",
+    "premium": false
+  },
+  "valkyrie": {
+    "name": "Valkyrie",
+    "nation": "U.K.",
+    "class": "Destroyer",
+    "tier": "II",
+    "premium": false
+  },
+  "vallejo": {
+    "name": "Vallejo",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": true
+  },
+  "vampire": {
+    "name": "Vampire",
+    "nation": "Commonwealth",
+    "class": "Destroyer",
+    "tier": "II",
+    "premium": true
+  },
+  "vampire-ii": {
+    "name": "Vampire II",
+    "nation": "Commonwealth",
+    "class": "Destroyer",
+    "tier": "★",
+    "premium": true
+  },
+  "vanguard": {
+    "name": "Vanguard",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": false
+  },
+  "vasteras": {
+    "name": "Västerås",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": false
+  },
+  "vauquelin": {
+    "name": "Vauquelin",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": false
+  },
+  "velos": {
+    "name": "Velos",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": true
+  },
+  "venezia": {
+    "name": "Venezia",
+    "nation": "Italy",
+    "class": "Cruiser",
+    "tier": "★",
+    "premium": true
+  },
+  "vermont": {
+    "name": "Vermont",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "★",
+    "premium": true
+  },
+  "viribus-unitis": {
+    "name": "Viribus Unitis",
+    "nation": "Europe",
+    "class": "Battleship",
+    "tier": "I",
+    "premium": true
+  },
+  "visby": {
+    "name": "Visby",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "I",
+    "premium": false
+  },
+  "vittorio-cuniberti": {
+    "name": "Vittorio Cuniberti",
+    "nation": "Italy",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": false
+  },
+  "vittorio-veneto": {
+    "name": "Vittorio Veneto",
+    "nation": "Italy",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": false
+  },
+  "vladivostok": {
+    "name": "Vladivostok",
+    "nation": "U.S.S.R.",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": false
+  },
+  "von-der-tann": {
+    "name": "Von Der Tann",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "III",
+    "premium": true
+  },
+  "wakatake": {
+    "name": "Wakatake",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "II",
+    "premium": false
+  },
+  "wakeful": {
+    "name": "Wakeful",
+    "nation": "U.K.",
+    "class": "Destroyer",
+    "tier": "III",
+    "premium": false
+  },
+  "warspite": {
+    "name": "Warspite",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": true
+  },
+  "weimar": {
+    "name": "Weimar",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "weser": {
+    "name": "Weser",
+    "nation": "Germany",
+    "class": "Aircraft Carrier",
+    "tier": "V",
+    "premium": false
+  },
+  "west-virginia": {
+    "name": "West Virginia",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": true
+  },
+  "west-virginia-44": {
+    "name": "West Virginia 44",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": true
+  },
+  "weymouth": {
+    "name": "Weymouth",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": false
+  },
+  "wichita": {
+    "name": "Wichita",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "wichita-ce": {
+    "name": "Wichita CE",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "wickes": {
+    "name": "Wickes",
+    "nation": "U.S.A.",
+    "class": "Destroyer",
+    "tier": "II",
+    "premium": false
+  },
+  "wisconsin": {
+    "name": "Wisconsin",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VIII",
+    "premium": true
+  },
+  "worcester": {
+    "name": "Worcester",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "★",
+    "premium": true
+  },
+  "wukong": {
+    "name": "Wukong",
+    "nation": "Pan",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "wyoming": {
+    "name": "Wyoming",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "III",
+    "premium": false
+  },
+  "yahagi": {
+    "name": "Yahagi",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": true
+  },
+  "yamato": {
+    "name": "Yamato",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "★",
+    "premium": true
+  },
+  "yorck": {
+    "name": "Yorck",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": false
+  },
+  "yoshino": {
+    "name": "Yoshino",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "★",
+    "premium": true
+  },
+  "yubari": {
+    "name": "Yūbari",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "III",
+    "premium": true
+  },
+  "yudachi": {
+    "name": "Yūdachi",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": true
+  },
+  "yugumo": {
+    "name": "Yūgumo",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": false
+  },
+  "yukikaze": {
+    "name": "Yukikaze",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "yukon": {
+    "name": "Yukon",
+    "nation": "Commonwealth",
+    "class": "Battleship",
+    "tier": "VI",
+    "premium": true
+  },
+  "z-23": {
+    "name": "Z-23",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": false
+  },
+  "z-31": {
+    "name": "Z-31",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": false
+  },
+  "z-35": {
+    "name": "Z-35",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "z-39": {
+    "name": "Z-39",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "z-44": {
+    "name": "Z-44",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": true
+  },
+  "z-46": {
+    "name": "Z-46",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": false
+  },
+  "z-52": {
+    "name": "Z-52",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "★",
+    "premium": true
+  },
+  "zao": {
+    "name": "Zao",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "★",
+    "premium": true
+  },
+  "zara": {
+    "name": "Zara",
+    "nation": "Italy",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": false
+  },
+  "zf-6": {
+    "name": "ZF-6",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "VII",
+    "premium": true
+  },
+  "zieten": {
+    "name": "Zieten",
+    "nation": "Germany",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": false
+  },
+  "zuiho": {
+    "name": "Zuihō",
+    "nation": "Japan",
+    "class": "Aircraft Carrier",
+    "tier": "V",
+    "premium": true
+  },
+  "milwaukee": {
+    "name": "Milwaukee",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": true
+  },
+  "marblehead-fe": {
+    "name": "Marblehead FE",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "IV",
+    "premium": true
+  },
+  "rattlehead": {
+    "name": "Rattlehead",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "IV",
+    "premium": true
+  },
+  "atlanta-b": {
+    "name": "Atlanta B",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "indianapolis-b": {
+    "name": "Indianapolis B",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "al-baltimore": {
+    "name": "AL Baltimore",
+    "nation": "U.S.A.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "smith-a": {
+    "name": "Smith A",
+    "nation": "U.S.A.",
+    "class": "Destroyer",
+    "tier": "II",
+    "premium": true
+  },
+  "nicholas": {
+    "name": "Nicholas",
+    "nation": "U.S.A.",
+    "class": "Destroyer",
+    "tier": "IV",
+    "premium": false
+  },
+  "arkansas-fe": {
+    "name": "Arkansas FE",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "III",
+    "premium": true
+  },
+  "texas-alpha": {
+    "name": "Texas Alpha",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": true
+  },
+  "primal": {
+    "name": "Primal",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": true
+  },
+  "leviathan": {
+    "name": "Leviathan",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": true
+  },
+  "massachusetts-b": {
+    "name": "Massachusetts B",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "georgia-w": {
+    "name": "Georgia W",
+    "nation": "U.S.A.",
+    "class": "Battleship",
+    "tier": "VII",
+    "premium": true
+  },
+  "katori-a": {
+    "name": "Katori A",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": true
+  },
+  "iwaki-fe": {
+    "name": "Iwaki FE",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "III",
+    "premium": true
+  },
+  "eastern-dragon": {
+    "name": "Eastern Dragon",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": true
+  },
+  "southern-dragon": {
+    "name": "Southern Dragon",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": true
+  },
+  "atago-b": {
+    "name": "Atago B",
+    "nation": "Japan",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "tachibana": {
+    "name": "Tachibana",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "I",
+    "premium": true
+  },
+  "kamikaze-bs": {
+    "name": "Kamikaze BS",
+    "nation": "Japan",
+    "class": "Destroyer",
+    "tier": "III",
+    "premium": true
+  },
+  "al-fusou": {
+    "name": "AL Fusou",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "IV",
+    "premium": true
+  },
+  "heat-ray": {
+    "name": "Heat Ray",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "IV",
+    "premium": true
+  },
+  "hyuga-w": {
+    "name": "Hyūga W",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": true
+  },
+  "mutsu-b": {
+    "name": "Mutsu B",
+    "nation": "Japan",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": true
+  },
+  "exeter-b": {
+    "name": "Exeter B",
+    "nation": "U.K.",
+    "class": "Cruiser",
+    "tier": "IV",
+    "premium": true
+  },
+  "campbeltown-a": {
+    "name": "Campbeltown A",
+    "nation": "U.K.",
+    "class": "Destroyer",
+    "tier": "II",
+    "premium": true
+  },
+  "al-queen-elizabeth": {
+    "name": "AL Queen Elizabeth",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": true
+  },
+  "warspite-b": {
+    "name": "Warspite B",
+    "nation": "U.K.",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": true
+  },
+  "kolberg-a": {
+    "name": "Kolberg A",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "I",
+    "premium": true
+  },
+  "graf-spee-b": {
+    "name": "Graf Spee B",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "V",
+    "premium": true
+  },
+  "g-101-alpha": {
+    "name": "G-101 Alpha",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "II",
+    "premium": true
+  },
+  "st-61": {
+    "name": "ST-61",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "IV",
+    "premium": true
+  },
+  "maass-w": {
+    "name": "Maass W",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": true
+  },
+  "z-39-b": {
+    "name": "Z-39 B",
+    "nation": "Germany",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "algerie-w": {
+    "name": "Algérie W",
+    "nation": "France",
+    "class": "Cruiser",
+    "tier": "VI",
+    "premium": true
+  },
+  "le-terrible-b": {
+    "name": "Le Terrible B",
+    "nation": "France",
+    "class": "Destroyer",
+    "tier": "VI",
+    "premium": true
+  },
+  "bretagne": {
+    "name": "Bretagne",
+    "nation": "France",
+    "class": "Battleship",
+    "tier": "III",
+    "premium": false
+  },
+  "aurora-b": {
+    "name": "Aurora B",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": true
+  },
+  "varyag": {
+    "name": "Varyag",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "II",
+    "premium": true
+  },
+  "mikoyan": {
+    "name": "Mikoyan",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "IV",
+    "premium": true
+  },
+  "pyotr-bagration-b": {
+    "name": "Pyotr Bagration B",
+    "nation": "U.S.S.R.",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "gremyashchy-fe": {
+    "name": "Gremyashchy FE",
+    "nation": "U.S.S.R.",
+    "class": "Destroyer",
+    "tier": "IV",
+    "premium": true
+  },
+  "meteor": {
+    "name": "Meteor",
+    "nation": "U.S.S.R.",
+    "class": "Destroyer",
+    "tier": "VIII",
+    "premium": true
+  },
+  "knyaz-suvorov": {
+    "name": "Knyaz Suvorov",
+    "nation": "U.S.S.R.",
+    "class": "Battleship",
+    "tier": "III",
+    "premium": true
+  },
+  "rasputin": {
+    "name": "Rasputin",
+    "nation": "U.S.S.R.",
+    "class": "Battleship",
+    "tier": "V",
+    "premium": true
+  },
+  "duca-daosta-b": {
+    "name": "Duca d'Aosta B",
+    "nation": "Italy",
+    "class": "Cruiser",
+    "tier": "IV",
+    "premium": true
+  },
+  "curtatone": {
+    "name": "Curtatone",
+    "nation": "Italy",
+    "class": "Destroyer",
+    "tier": "I",
+    "premium": false
+  },
+  "tatra": {
+    "name": "Tátra",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "I",
+    "premium": false
+  },
+  "b-yskawica-b": {
+    "name": "Błyskawica B",
+    "nation": "Europe",
+    "class": "Destroyer",
+    "tier": "V",
+    "premium": true
+  },
+  "longjiang": {
+    "name": "Longjiang",
+    "nation": "Pan-Asia",
+    "class": "Destroyer",
+    "tier": "I",
+    "premium": false
+  },
+  "brisbane-b": {
+    "name": "Brisbane B",
+    "nation": "Commonwealth",
+    "class": "Cruiser",
+    "tier": "VII",
+    "premium": true
+  },
+  "bl-cher": {
+    "name": "Blücher",
+    "nation": "Germany",
+    "class": "Cruiser",
+    "tier": "VIII",
+    "premium": true
+  }
+}
