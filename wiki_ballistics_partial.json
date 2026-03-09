@@ -1,0 +1,2129 @@
+{
+  "A. M. Sumner": {
+    "wikiChecked": true
+  },
+  "Acasta": {
+    "wikiChecked": true,
+    "traits": [
+      "Short-fuse AP"
+    ],
+    "hePen": 20,
+    "apVelocity": 808,
+    "heVelocity": 808,
+    "apShellWeight": 22.68,
+    "heShellWeight": 22.68,
+    "wikiPage": "Acasta"
+  },
+  "Achilles": {
+    "wikiChecked": true
+  },
+  "Adriatico": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 22,
+    "heVelocity": 875,
+    "heShellWeight": 32.7,
+    "wikiPage": "Adriatico"
+  },
+  "Agano": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 25,
+    "apVelocity": 850,
+    "heVelocity": 850,
+    "apShellWeight": 45.4,
+    "heShellWeight": 45.4,
+    "wikiPage": "Agano"
+  },
+  "Agincourt": {
+    "wikiChecked": true,
+    "traits": [
+      "Short-fuse AP"
+    ],
+    "hePen": 50,
+    "apVelocity": 831,
+    "heVelocity": 831,
+    "apShellWeight": 389.8,
+    "heShellWeight": 386,
+    "wikiPage": "Agincourt"
+  },
+  "Ägir": {
+    "wikiChecked": true,
+    "traits": [
+      "1/4 caliber HE pen",
+      "German 1/4 HE pen + standard AP"
+    ],
+    "hePen": 76,
+    "apVelocity": 865,
+    "heVelocity": 865,
+    "apShellWeight": 390,
+    "heShellWeight": 390,
+    "wikiPage": "Ägir"
+  },
+  "Aigle": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 23,
+    "apVelocity": 700,
+    "heVelocity": 700,
+    "apShellWeight": 40.4,
+    "heShellWeight": 40.2,
+    "wikiPage": "Aigle"
+  },
+  "Akatsuki": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 21,
+    "apVelocity": 915,
+    "heVelocity": 915,
+    "apShellWeight": 23,
+    "heShellWeight": 23,
+    "wikiPage": "Akatsuki"
+  },
+  "Aki": {
+    "wikiChecked": true
+  },
+  "Aki SE 25": {
+    "wikiChecked": true
+  },
+  "Akizuki": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 16,
+    "apVelocity": 1000,
+    "heVelocity": 1000,
+    "apShellWeight": 13,
+    "heShellWeight": 13,
+    "wikiPage": "Akizuki"
+  },
+  "Al Ägir": {
+    "wikiChecked": true
+  },
+  "AL Avrora": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 25,
+    "apVelocity": 792,
+    "heVelocity": 753,
+    "apShellWeight": 41.4,
+    "heShellWeight": 49.76,
+    "wikiPage": "AL_Avrora"
+  },
+  "AL Chapayev": {
+    "wikiChecked": true
+  },
+  "AL Cheshire": {
+    "wikiChecked": true,
+    "traits": [
+      "Short-fuse AP"
+    ],
+    "hePen": 39,
+    "apVelocity": 841,
+    "heVelocity": 841,
+    "apShellWeight": 185.3,
+    "heShellWeight": 185.3,
+    "wikiPage": "AL_Cheshire"
+  },
+  "AL Formidable": {
+    "wikiChecked": true
+  },
+  "AL Harbin": {
+    "wikiChecked": true
+  },
+  "AL Montpelier": {
+    "wikiChecked": true,
+    "traits": [
+      "Super-heavy AP (improved ricochet angles)"
+    ],
+    "hePen": 25,
+    "apVelocity": 762,
+    "heVelocity": 812,
+    "apShellWeight": 59,
+    "heShellWeight": 47.6,
+    "wikiPage": "AL_Montpelier"
+  },
+  "AL New Jersey": {
+    "wikiChecked": true
+  },
+  "AL Richelieu": {
+    "wikiChecked": true
+  },
+  "AL Sov. Rossiya": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 51,
+    "apVelocity": 830,
+    "heVelocity": 830,
+    "apShellWeight": 1108,
+    "heShellWeight": 1108,
+    "wikiPage": "AL_Sov._Rossiya"
+  },
+  "AL Tallinn": {
+    "wikiChecked": true
+  },
+  "AL Vittorio Veneto": {
+    "wikiChecked": true
+  },
+  "AL Yukikaze": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 21,
+    "apVelocity": 915,
+    "heVelocity": 915,
+    "apShellWeight": 23,
+    "heShellWeight": 23,
+    "wikiPage": "AL_Yukikaze"
+  },
+  "AL Z24": {
+    "wikiChecked": true
+  },
+  "AL Zara": {
+    "wikiChecked": true
+  },
+  "Alabama": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 67,
+    "apVelocity": 701,
+    "heVelocity": 803,
+    "apShellWeight": 1225,
+    "heShellWeight": 862,
+    "wikiPage": "Alabama"
+  },
+  "Alabama Black": {
+    "wikiChecked": true
+  },
+  "Alaska": {
+    "wikiChecked": true,
+    "traits": [
+      "Super-heavy AP (improved ricochet angles)"
+    ],
+    "hePen": 50,
+    "apVelocity": 762,
+    "heVelocity": 808,
+    "apShellWeight": 517,
+    "heShellWeight": 462.3,
+    "wikiPage": "Alaska"
+  },
+  "Alaska B": {
+    "wikiChecked": true,
+    "traits": [
+      "Super-heavy AP (improved ricochet angles)"
+    ],
+    "hePen": 50,
+    "apVelocity": 762,
+    "heVelocity": 808,
+    "apShellWeight": 517,
+    "heShellWeight": 462.3,
+    "wikiPage": "Alaska_B"
+  },
+  "Albany": {
+    "wikiChecked": true,
+    "traits": [
+      "Super-heavy AP (improved ricochet angles)"
+    ],
+    "hePen": 25,
+    "apVelocity": 853,
+    "heVelocity": 853,
+    "apShellWeight": 47.7,
+    "heShellWeight": 47.7,
+    "wikiPage": "Albany"
+  },
+  "Albemarle": {
+    "wikiChecked": true,
+    "traits": [
+      "Short-fuse AP"
+    ],
+    "hePen": 33,
+    "apVelocity": 814,
+    "heVelocity": 814,
+    "apShellWeight": 116.1,
+    "heShellWeight": 116.1,
+    "wikiPage": "Albemarle"
+  },
+  "Algerie": {
+    "wikiChecked": true
+  },
+  "Almirante Cervera": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 25,
+    "apVelocity": 900,
+    "heVelocity": 900,
+    "apShellWeight": 45.4,
+    "heShellWeight": 45,
+    "wikiPage": "Almirante_Cervera"
+  },
+  "Alsace": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 63,
+    "apVelocity": 830,
+    "heVelocity": 830,
+    "apShellWeight": 885,
+    "heShellWeight": 884,
+    "wikiPage": "Alsace"
+  },
+  "Amagi": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 68,
+    "apVelocity": 806,
+    "heVelocity": 805,
+    "apShellWeight": 1020,
+    "heShellWeight": 938.5,
+    "wikiPage": "Amagi"
+  },
+  "Amalfi": {
+    "wikiChecked": true,
+    "traits": [
+      "SAP main battery"
+    ],
+    "hePen": 33,
+    "apVelocity": 910,
+    "heVelocity": 860,
+    "apShellWeight": 125.3,
+    "wikiPage": "Amalfi"
+  },
+  "Anchorage": {
+    "wikiChecked": true,
+    "traits": [
+      "Super-heavy AP (improved ricochet angles)"
+    ],
+    "hePen": 33,
+    "apVelocity": 853,
+    "heVelocity": 823,
+    "apShellWeight": 118,
+    "heShellWeight": 118,
+    "wikiPage": "Anchorage"
+  },
+  "Andalucía": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 39,
+    "apVelocity": 841,
+    "heVelocity": 841,
+    "apShellWeight": 185.3,
+    "heShellWeight": 185.3,
+    "wikiPage": "Andalucía"
+  },
+  "Andrea Doria": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 53,
+    "apVelocity": 830,
+    "heVelocity": 825,
+    "apShellWeight": 525,
+    "wikiPage": "Andrea_Doria"
+  },
+  "Anhalt": {
+    "wikiChecked": true,
+    "traits": [
+      "1/4 caliber HE pen"
+    ],
+    "hePen": 87,
+    "apVelocity": 815,
+    "heVelocity": 815,
+    "apShellWeight": 490,
+    "heShellWeight": 600,
+    "wikiPage": "Anhalt"
+  },
+  "Anshan": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 21,
+    "apVelocity": 870,
+    "heVelocity": 870,
+    "apShellWeight": 33.5,
+    "heShellWeight": 33.4,
+    "wikiPage": "Anshan"
+  },
+  "Aoba": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 33,
+    "apVelocity": 840,
+    "heVelocity": 840,
+    "apShellWeight": 125.85,
+    "heShellWeight": 125.85,
+    "wikiPage": "Aoba"
+  },
+  "Arizona": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 59,
+    "apVelocity": 792,
+    "heVelocity": 834,
+    "apShellWeight": 680.4,
+    "heShellWeight": 578.34,
+    "wikiPage": "Arizona"
+  },
+  "Ark Royal": {
+    "wikiChecked": true,
+    "traits": [
+      "Short-fuse AP"
+    ],
+    "hePen": null,
+    "heVelocity": 746,
+    "wikiPage": "Ark_Royal"
+  },
+  "Arkansas": {
+    "wikiChecked": true
+  },
+  "ARP Haguro": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 33,
+    "apVelocity": 840,
+    "heVelocity": 840,
+    "apShellWeight": 125.85,
+    "heShellWeight": 125.85,
+    "wikiPage": "ARP_Haguro"
+  },
+  "ARP Haruna": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 59,
+    "apVelocity": 775,
+    "heVelocity": 805,
+    "apShellWeight": 673.5,
+    "heShellWeight": 625,
+    "wikiPage": "ARP_Haruna"
+  },
+  "ARP Kirishima": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 59,
+    "apVelocity": 775,
+    "heVelocity": 805,
+    "apShellWeight": 673.5,
+    "heShellWeight": 625,
+    "wikiPage": "ARP_Kirishima"
+  },
+  "ARP Musashi": {
+    "wikiChecked": true
+  },
+  "ARP Nachi": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 33,
+    "apVelocity": 840,
+    "heVelocity": 840,
+    "apShellWeight": 125.85,
+    "heShellWeight": 125.85,
+    "wikiPage": "ARP_Nachi"
+  },
+  "Asashio": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 21,
+    "apVelocity": 915,
+    "heVelocity": 915,
+    "apShellWeight": 23,
+    "heShellWeight": 23,
+    "wikiPage": "Asashio"
+  },
+  "Asashio B": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 21,
+    "apVelocity": 915,
+    "heVelocity": 915,
+    "apShellWeight": 23,
+    "heShellWeight": 23,
+    "wikiPage": "Asashio_B"
+  },
+  "Ashitaka": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 68,
+    "apVelocity": 806,
+    "heVelocity": 805,
+    "apShellWeight": 1020,
+    "heShellWeight": 938.5,
+    "wikiPage": "Ashitaka"
+  },
+  "Asturias": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 33,
+    "apVelocity": 900,
+    "heVelocity": 900,
+    "apShellWeight": 125.3,
+    "heShellWeight": 125.3,
+    "wikiPage": "Asturias"
+  },
+  "Atago": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 33,
+    "apVelocity": 840,
+    "heVelocity": 840,
+    "apShellWeight": 125.85,
+    "heShellWeight": 125.85,
+    "wikiPage": "Atago"
+  },
+  "Atlanta": {
+    "wikiChecked": true,
+    "traits": [
+      "Super-heavy AP (improved ricochet angles)"
+    ],
+    "hePen": 21,
+    "apVelocity": 792,
+    "heVelocity": 792,
+    "apShellWeight": 25,
+    "heShellWeight": 24.5,
+    "wikiPage": "Atlanta"
+  },
+  "Atlântico": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 63,
+    "apVelocity": 804,
+    "heVelocity": 792,
+    "apShellWeight": 879,
+    "wikiPage": "Atlântico"
+  },
+  "August von Parseval": {
+    "wikiChecked": true,
+    "traits": [
+      "1/4 caliber HE pen"
+    ],
+    "hePen": null,
+    "heVelocity": 900,
+    "wikiPage": "August_von_Parseval"
+  },
+  "Aurora": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 25,
+    "apVelocity": 792,
+    "heVelocity": 753,
+    "apShellWeight": 41.4,
+    "heShellWeight": 49.76,
+    "wikiPage": "Aurora"
+  },
+  "Aviere": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 20,
+    "heVelocity": 950,
+    "heShellWeight": 23.15,
+    "wikiPage": "Aviere"
+  },
+  "Azuma": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 51,
+    "apVelocity": 836,
+    "heVelocity": 836,
+    "apShellWeight": 448.8,
+    "heShellWeight": 448.8,
+    "wikiPage": "Azuma"
+  },
+  "BA Binah": {
+    "wikiChecked": true
+  },
+  "BA Hovercraft": {
+    "wikiChecked": true
+  },
+  "BA Montana": {
+    "wikiChecked": true
+  },
+  "BA Tirpitz": {
+    "wikiChecked": true
+  },
+  "BA Utnapishtim&#x27;s Ship": {
+    "wikiChecked": true
+  },
+  "Baleares": {
+    "wikiChecked": true
+  },
+  "Baltimore": {
+    "wikiChecked": true
+  },
+  "Bayard": {
+    "wikiChecked": true
+  },
+  "Bayern": {
+    "wikiChecked": true
+  },
+  "Belfast": {
+    "wikiChecked": true
+  },
+  "Belfast 43": {
+    "wikiChecked": true
+  },
+  "Bellerophon": {
+    "wikiChecked": true
+  },
+  "Benham": {
+    "wikiChecked": true
+  },
+  "Benson": {
+    "wikiChecked": true
+  },
+  "Bismarck": {
+    "wikiChecked": true
+  },
+  "Bismarck B": {
+    "wikiChecked": true
+  },
+  "Black": {
+    "wikiChecked": true
+  },
+  "Black B": {
+    "wikiChecked": true
+  },
+  "Blazing Dread": {
+    "wikiChecked": true
+  },
+  "Błyskawica": {
+    "wikiChecked": true
+  },
+  "Boevoi": {
+    "wikiChecked": true
+  },
+  "Bogatyr": {
+    "wikiChecked": true
+  },
+  "Boise": {
+    "wikiChecked": true
+  },
+  "Borodino": {
+    "wikiChecked": true
+  },
+  "Bourgogne": {
+    "wikiChecked": true
+  },
+  "Bourrasque": {
+    "wikiChecked": true
+  },
+  "Brandenburg": {
+    "wikiChecked": true
+  },
+  "Brest": {
+    "wikiChecked": true
+  },
+  "Bretange": {
+    "wikiChecked": true
+  },
+  "Brindisi": {
+    "wikiChecked": true
+  },
+  "Brisbane": {
+    "wikiChecked": true
+  },
+  "Brisbane Black": {
+    "wikiChecked": true
+  },
+  "Budyonny": {
+    "wikiChecked": true
+  },
+  "Buffalo": {
+    "wikiChecked": true
+  },
+  "Bulletproof": {
+    "wikiChecked": true
+  },
+  "C. Colombo": {
+    "wikiChecked": true
+  },
+  "Caledon": {
+    "wikiChecked": true,
+    "apVelocity": 853,
+    "apShellWeight": 45.36
+  },
+  "California": {
+    "wikiChecked": true,
+    "apVelocity": 823,
+    "heVelocity": 861,
+    "apShellWeight": 680.4,
+    "heShellWeight": 578.34
+  },
+  "Campbeltown": {
+    "wikiChecked": true,
+    "apVelocity": 884,
+    "heVelocity": 884,
+    "apShellWeight": 14.97,
+    "heShellWeight": 14.97
+  },
+  "Caprice": {
+    "wikiChecked": true
+  },
+  "Carnot": {
+    "wikiChecked": true,
+    "apVelocity": 870,
+    "heVelocity": 905,
+    "apShellWeight": 442,
+    "heShellWeight": 426
+  },
+  "Castilla": {
+    "wikiChecked": true,
+    "apVelocity": 945,
+    "heVelocity": 954,
+    "apShellWeight": 227.9,
+    "heShellWeight": 227.9
+  },
+  "Cataluña": {
+    "wikiChecked": true,
+    "apVelocity": 900,
+    "heVelocity": 900,
+    "apShellWeight": 125.3,
+    "heShellWeight": 125.3
+  },
+  "Cavour": {
+    "wikiChecked": true
+  },
+  "Celebes": {
+    "wikiChecked": true
+  },
+  "Celtic": {
+    "wikiChecked": true
+  },
+  "Centurion": {
+    "wikiChecked": true
+  },
+  "Champagne": {
+    "wikiChecked": true,
+    "apVelocity": 850,
+    "heVelocity": 850,
+    "apShellWeight": 900,
+    "heShellWeight": 900
+  },
+  "Chapayev": {
+    "wikiChecked": true,
+    "apVelocity": 950,
+    "heVelocity": 950,
+    "apShellWeight": 55,
+    "heShellWeight": 55
+  },
+  "Charlemagne": {
+    "wikiChecked": true
+  },
+  "Charles Hughes": {
+    "wikiChecked": true
+  },
+  "Charles Martel": {
+    "wikiChecked": true,
+    "apVelocity": 820,
+    "heVelocity": 850,
+    "apShellWeight": 134,
+    "heShellWeight": 123.82
+  },
+  "Charleston": {
+    "wikiChecked": true,
+    "apVelocity": 853,
+    "heVelocity": 853,
+    "apShellWeight": 47.7,
+    "heShellWeight": 47.7
+  },
+  "Charleston M": {
+    "wikiChecked": true
+  },
+  "Cherbourg": {
+    "wikiChecked": true
+  },
+  "Cheshire": {
+    "wikiChecked": true,
+    "apVelocity": 841,
+    "heVelocity": 841,
+    "apShellWeight": 185.3,
+    "heShellWeight": 185.3
+  },
+  "Chikuma": {
+    "wikiChecked": true,
+    "apVelocity": 825,
+    "heVelocity": 825,
+    "apShellWeight": 45.4,
+    "heShellWeight": 45.4
+  },
+  "Chkalov": {
+    "wikiChecked": true,
+    "heVelocity": 900
+  },
+  "Chumphon": {
+    "wikiChecked": true,
+    "apVelocity": 792,
+    "heVelocity": 792,
+    "apShellWeight": 25,
+    "heShellWeight": 24.5
+  },
+  "Chung Mu": {
+    "wikiChecked": true
+  },
+  "Chungking": {
+    "wikiChecked": true,
+    "apVelocity": 841,
+    "heVelocity": 841,
+    "apShellWeight": 50.8,
+    "heShellWeight": 50.8
+  },
+  "Clemson": {
+    "wikiChecked": true
+  },
+  "Cleveland": {
+    "wikiChecked": true,
+    "apVelocity": 762,
+    "heVelocity": 812,
+    "apShellWeight": 59,
+    "heShellWeight": 47.6
+  },
+  "Colbert": {
+    "wikiChecked": true
+  },
+  "Collingwood": {
+    "wikiChecked": true
+  },
+  "Colorado": {
+    "wikiChecked": true,
+    "apVelocity": 768,
+    "heVelocity": 803,
+    "apShellWeight": 1016,
+    "heShellWeight": 861.8
+  },
+  "Congress": {
+    "wikiChecked": true,
+    "apVelocity": 762,
+    "heVelocity": 808,
+    "apShellWeight": 517,
+    "heShellWeight": 462.3
+  },
+  "Connecticut": {
+    "wikiChecked": true
+  },
+  "Conqueror": {
+    "wikiChecked": true,
+    "apVelocity": 747,
+    "heVelocity": 792,
+    "apShellWeight": 1157,
+    "heShellWeight": 995
+  },
+  "Constellation": {
+    "wikiChecked": true,
+    "apVelocity": 768,
+    "heVelocity": 803,
+    "apShellWeight": 1016,
+    "heShellWeight": 861.8
+  },
+  "Constellation W": {
+    "wikiChecked": true
+  },
+  "Cossack": {
+    "wikiChecked": true,
+    "apVelocity": 808,
+    "heVelocity": 808,
+    "apShellWeight": 22.68,
+    "heShellWeight": 22.68
+  },
+  "Cossack 38": {
+    "wikiChecked": true
+  },
+  "Courbet": {
+    "wikiChecked": true,
+    "apVelocity": 798,
+    "heVelocity": 905,
+    "apShellWeight": 428.35,
+    "heShellWeight": 308
+  },
+  "Courbet 1944": {
+    "wikiChecked": true
+  },
+  "Cross of Dorn": {
+    "wikiChecked": true
+  },
+  "Cyclone": {
+    "wikiChecked": true
+  },
+  "D&#x27;kyr": {
+    "wikiChecked": true
+  },
+  "Daisen": {
+    "wikiChecked": true,
+    "apVelocity": 870,
+    "heVelocity": 869,
+    "apShellWeight": 1020,
+    "heShellWeight": 938.5
+  },
+  "Dalian": {
+    "wikiChecked": true,
+    "apVelocity": 950,
+    "heVelocity": 950,
+    "apShellWeight": 33.4,
+    "heShellWeight": 33
+  },
+  "Dallas": {
+    "wikiChecked": true,
+    "apVelocity": 762,
+    "heVelocity": 812,
+    "apShellWeight": 59,
+    "heShellWeight": 47.6
+  },
+  "Danae": {
+    "wikiChecked": true,
+    "apVelocity": 853,
+    "apShellWeight": 45.36
+  },
+  "Dante Alighieri": {
+    "wikiChecked": true,
+    "apVelocity": 840,
+    "heVelocity": 840,
+    "apShellWeight": 390
+  },
+  "Dante Alighieri B": {
+    "wikiChecked": true
+  },
+  "Daring": {
+    "wikiChecked": true,
+    "apVelocity": 746,
+    "heVelocity": 746,
+    "apShellWeight": 25,
+    "heShellWeight": 24.95
+  },
+  "De Grasse": {
+    "wikiChecked": true
+  },
+  "De Ruyter": {
+    "wikiChecked": true
+  },
+  "De Zeven Provinciën": {
+    "wikiChecked": true
+  },
+  "Defence": {
+    "wikiChecked": true,
+    "apVelocity": 757,
+    "heVelocity": 757,
+    "apShellWeight": 721,
+    "heShellWeight": 721
+  },
+  "Delaware": {
+    "wikiChecked": true,
+    "apVelocity": 762,
+    "heVelocity": 820,
+    "apShellWeight": 1225,
+    "heShellWeight": 862
+  },
+  "Delny": {
+    "wikiChecked": true,
+    "apVelocity": 950,
+    "heVelocity": 950,
+    "apShellWeight": 33.4,
+    "heShellWeight": 33
+  },
+  "Derfflinger": {
+    "wikiChecked": true,
+    "apVelocity": 855,
+    "heVelocity": 850,
+    "apShellWeight": 405,
+    "heShellWeight": 406
+  },
+  "Derzki": {
+    "wikiChecked": true
+  },
+  "Des Moines": {
+    "wikiChecked": true,
+    "apVelocity": 762,
+    "heVelocity": 823,
+    "apShellWeight": 152,
+    "heShellWeight": 118
+  },
+  "Desert Falcon": {
+    "wikiChecked": true
+  },
+  "Devonshire": {
+    "wikiChecked": true,
+    "apVelocity": 814,
+    "heVelocity": 814,
+    "apShellWeight": 116.1,
+    "heShellWeight": 116.1
+  },
+  "Dewa": {
+    "wikiChecked": true
+  },
+  "Dido": {
+    "wikiChecked": true,
+    "apVelocity": 792,
+    "heVelocity": 792,
+    "apShellWeight": 36.3,
+    "heShellWeight": 36.3
+  },
+  "Dm. Donskoi": {
+    "wikiChecked": true
+  },
+  "Dmitry Pozharsky": {
+    "wikiChecked": true,
+    "apVelocity": 950,
+    "heVelocity": 1000,
+    "apShellWeight": 55
+  },
+  "Drake": {
+    "wikiChecked": true,
+    "apVelocity": 841,
+    "heVelocity": 841,
+    "apShellWeight": 185.3,
+    "heShellWeight": 185.3
+  },
+  "Dresden": {
+    "wikiChecked": true,
+    "apVelocity": 710,
+    "heVelocity": 710,
+    "apShellWeight": 17.4,
+    "heShellWeight": 17.5
+  },
+  "Druid": {
+    "wikiChecked": true
+  },
+  "Duca DAosta": {
+    "wikiChecked": true
+  },
+  "Abruzzi": {
+    "wikiChecked": true
+  },
+  "Duchaffault": {
+    "wikiChecked": true,
+    "apVelocity": 950,
+    "heVelocity": 950,
+    "apShellWeight": 26,
+    "heShellWeight": 23
+  },
+  "Duguay-Trouin": {
+    "wikiChecked": true
+  },
+  "Duke of York": {
+    "wikiChecked": true,
+    "apVelocity": 757,
+    "heVelocity": 757,
+    "apShellWeight": 721,
+    "heShellWeight": 721
+  },
+  "Duncan": {
+    "wikiChecked": true
+  },
+  "Dunkerque": {
+    "wikiChecked": true,
+    "apVelocity": 870,
+    "heVelocity": 885,
+    "apShellWeight": 560,
+    "heShellWeight": 552
+  },
+  "Dunkerque B": {
+    "wikiChecked": true,
+    "apVelocity": 870,
+    "heVelocity": 885,
+    "apShellWeight": 560,
+    "heShellWeight": 552
+  },
+  "Dupleix": {
+    "wikiChecked": true
+  },
+  "Edinburgh": {
+    "wikiChecked": true,
+    "apVelocity": 841,
+    "heVelocity": 811,
+    "apShellWeight": 50.8
+  },
+  "Eendracht": {
+    "wikiChecked": true,
+    "apVelocity": 900,
+    "heVelocity": 900,
+    "apShellWeight": 46.7,
+    "heShellWeight": 46
+  },
+  "Elbing": {
+    "wikiChecked": true
+  },
+  "Elephant": {
+    "wikiChecked": true
+  },
+  "Emerald": {
+    "wikiChecked": true,
+    "apVelocity": 936,
+    "heVelocity": 811,
+    "apShellWeight": 45.36
+  },
+  "Emile Bertin": {
+    "wikiChecked": true
+  },
+  "En. Gabolde": {
+    "wikiChecked": true,
+    "apVelocity": 780,
+    "heVelocity": 780,
+    "apShellWeight": 13.5,
+    "heShellWeight": 13.5
+  },
+  "En. Gabolde W": {
+    "wikiChecked": true
+  },
+  "Enterprise": {
+    "wikiChecked": true,
+    "heVelocity": 792
+  },
+  "Erie": {
+    "wikiChecked": true,
+    "heVelocity": 853,
+    "heShellWeight": 47.6
+  },
+  "Exeter": {
+    "wikiChecked": true,
+    "apVelocity": 855,
+    "heVelocity": 855,
+    "apShellWeight": 116.1,
+    "heShellWeight": 116.1
+  },
+  "F. Der Große": {
+    "wikiChecked": true
+  },
+  "F. Schultz": {
+    "wikiChecked": true
+  },
+  "Farragut": {
+    "wikiChecked": true
+  },
+  "Fenyang": {
+    "wikiChecked": true,
+    "apVelocity": 1000,
+    "heVelocity": 1000,
+    "apShellWeight": 19,
+    "heShellWeight": 15
+  },
+  "Fiji": {
+    "wikiChecked": true,
+    "apVelocity": 841,
+    "heVelocity": 811,
+    "apShellWeight": 50.8
+  },
+  "Flandre": {
+    "wikiChecked": true
+  },
+  "Fletcher": {
+    "wikiChecked": true,
+    "apVelocity": 792,
+    "heVelocity": 792,
+    "apShellWeight": 25,
+    "heShellWeight": 24.5
+  },
+  "Flint": {
+    "wikiChecked": true,
+    "apVelocity": 792,
+    "heVelocity": 792,
+    "apShellWeight": 25,
+    "heShellWeight": 24.5
+  },
+  "Florida": {
+    "wikiChecked": true
+  },
+  "FR25": {
+    "wikiChecked": true,
+    "heVelocity": 700,
+    "heShellWeight": 40.2
+  },
+  "Francesco Caracciolo": {
+    "wikiChecked": true,
+    "apVelocity": 850,
+    "heVelocity": 860,
+    "apShellWeight": 884.8
+  },
+  "Francesco Ferruccio": {
+    "wikiChecked": true,
+    "heVelocity": 995,
+    "heShellWeight": 44.3
+  },
+  "Friant": {
+    "wikiChecked": true,
+    "apVelocity": 790,
+    "heVelocity": 840,
+    "apShellWeight": 39.5,
+    "heShellWeight": 31.5
+  },
+  "Friesland": {
+    "wikiChecked": true,
+    "apVelocity": 825,
+    "heVelocity": 825,
+    "apShellWeight": 23.5,
+    "heShellWeight": 23.5
+  },
+  "Fubuki": {
+    "wikiChecked": true,
+    "apVelocity": 915,
+    "heVelocity": 915,
+    "apShellWeight": 23,
+    "heShellWeight": 23
+  },
+  "Furious": {
+    "wikiChecked": true,
+    "heVelocity": 811
+  },
+  "Furutaka": {
+    "wikiChecked": true,
+    "apVelocity": 870,
+    "heVelocity": 870,
+    "apShellWeight": 110,
+    "heShellWeight": 110
+  },
+  "Fushun": {
+    "wikiChecked": true,
+    "apVelocity": 870,
+    "heVelocity": 870,
+    "apShellWeight": 33.5,
+    "heShellWeight": 33.4
+  },
+  "Fusilier": {
+    "wikiChecked": true
+  },
+  "Fusō": {
+    "wikiChecked": true,
+    "apVelocity": 775,
+    "heVelocity": 805,
+    "apShellWeight": 673.5,
+    "heShellWeight": 625
+  },
+  "G-101": {
+    "wikiChecked": true
+  },
+  "G. J. Maerker": {
+    "wikiChecked": true
+  },
+  "Gadjah Mada": {
+    "wikiChecked": true,
+    "apVelocity": 808,
+    "heVelocity": 808,
+    "apShellWeight": 22.68,
+    "heShellWeight": 22.68
+  },
+  "Gaede": {
+    "wikiChecked": true
+  },
+  "Galicia": {
+    "wikiChecked": true,
+    "apVelocity": 900,
+    "heVelocity": 900,
+    "apShellWeight": 45.4,
+    "heShellWeight": 45
+  },
+  "Gallant": {
+    "wikiChecked": true,
+    "apVelocity": 808,
+    "heVelocity": 808,
+    "apShellWeight": 22.68,
+    "heShellWeight": 22.68
+  },
+  "Gangut": {
+    "wikiChecked": true,
+    "apVelocity": 762,
+    "heVelocity": 762,
+    "apShellWeight": 470.9,
+    "heShellWeight": 470.9
+  },
+  "Gascogne": {
+    "wikiChecked": true
+  },
+  "Gdańsk": {
+    "wikiChecked": true
+  },
+  "Gearing": {
+    "wikiChecked": true
+  },
+  "Gelderland": {
+    "wikiChecked": true,
+    "apVelocity": 820,
+    "heVelocity": 820,
+    "apShellWeight": 21,
+    "heShellWeight": 20.5
+  },
+  "Genova": {
+    "wikiChecked": true,
+    "apVelocity": 840,
+    "heVelocity": 811,
+    "apShellWeight": 125.3
+  },
+  "Georgia": {
+    "wikiChecked": true,
+    "apVelocity": 732,
+    "heVelocity": 800,
+    "apShellWeight": 1746,
+    "heShellWeight": 1230
+  },
+  "Giulio Cesare": {
+    "wikiChecked": true,
+    "apVelocity": 830,
+    "heVelocity": 830,
+    "apShellWeight": 525,
+    "heShellWeight": 485
+  },
+  "Giuseppe Verdi": {
+    "wikiChecked": true,
+    "apVelocity": 836,
+    "heVelocity": 836,
+    "apShellWeight": 990,
+    "heShellWeight": 1071
+  },
+  "Giussano": {
+    "wikiChecked": true
+  },
+  "Gneisenau": {
+    "wikiChecked": true,
+    "apVelocity": 820,
+    "heVelocity": 820,
+    "apShellWeight": 800,
+    "heShellWeight": 800
+  },
+  "Gnevny": {
+    "wikiChecked": true
+  },
+  "Gokase": {
+    "wikiChecked": true
+  },
+  "Gorizia": {
+    "wikiChecked": true,
+    "apVelocity": 900,
+    "heVelocity": 850,
+    "apShellWeight": 125.3
+  },
+  "Gorky": {
+    "wikiChecked": true
+  },
+  "Gouden Leeuw": {
+    "wikiChecked": true
+  },
+  "Graf Spee": {
+    "wikiChecked": true
+  },
+  "Graf Zeppelin": {
+    "wikiChecked": true,
+    "heVelocity": 900
+  },
+  "Graf Zeppelin Black": {
+    "wikiChecked": true
+  },
+  "Gremyashchy": {
+    "wikiChecked": true
+  },
+  "Grom": {
+    "wikiChecked": true,
+    "heVelocity": 900,
+    "heShellWeight": 24
+  },
+  "Großer Kurfürst": {
+    "wikiChecked": true,
+    "apVelocity": 810,
+    "heVelocity": 810,
+    "apShellWeight": 1030,
+    "heShellWeight": 1030
+  },
+  "Gryf": {
+    "wikiChecked": true,
+    "heVelocity": 900,
+    "heShellWeight": 24
+  },
+  "Guépard": {
+    "wikiChecked": true,
+    "apVelocity": 700,
+    "heVelocity": 700,
+    "apShellWeight": 40.4,
+    "heShellWeight": 40.2
+  },
+  "Guépard W": {
+    "wikiChecked": true
+  },
+  "Haarlem": {
+    "wikiChecked": true,
+    "apVelocity": 925,
+    "heVelocity": 925,
+    "apShellWeight": 122,
+    "heShellWeight": 122
+  },
+  "Haida": {
+    "wikiChecked": true,
+    "apVelocity": 808,
+    "heVelocity": 808,
+    "apShellWeight": 22.68,
+    "heShellWeight": 22.68
+  },
+  "Hakuryū": {
+    "wikiChecked": true,
+    "heVelocity": 1000
+  },
+  "Halland": {
+    "wikiChecked": true
+  },
+  "Hampshire": {
+    "wikiChecked": true,
+    "apVelocity": 884,
+    "heVelocity": 811,
+    "apShellWeight": 116.1
+  },
+  "Harbin": {
+    "wikiChecked": true
+  },
+  "Hatsuharu": {
+    "wikiChecked": true,
+    "apVelocity": 915,
+    "heVelocity": 915,
+    "apShellWeight": 23,
+    "heShellWeight": 23
+  },
+  "Hawke": {
+    "wikiChecked": true,
+    "apVelocity": 747,
+    "heVelocity": 792,
+    "apShellWeight": 1080,
+    "heShellWeight": 929
+  },
+  "Hawkins": {
+    "wikiChecked": true
+  },
+  "Hayate": {
+    "wikiChecked": true,
+    "apVelocity": 915,
+    "heVelocity": 915,
+    "apShellWeight": 23,
+    "heShellWeight": 23
+  },
+  "Hector": {
+    "wikiChecked": true
+  },
+  "Helena": {
+    "wikiChecked": true,
+    "apVelocity": 762,
+    "heVelocity": 812,
+    "apShellWeight": 59,
+    "heShellWeight": 47.6
+  },
+  "Henri IV": {
+    "wikiChecked": true,
+    "apVelocity": 845,
+    "heVelocity": 845,
+    "apShellWeight": 220,
+    "heShellWeight": 220
+  },
+  "Hermes": {
+    "wikiChecked": true,
+    "heVelocity": 850
+  },
+  "Hermes W": {
+    "wikiChecked": true
+  },
+  "Hill": {
+    "wikiChecked": true
+  },
+  "Hindenburg": {
+    "wikiChecked": true,
+    "apVelocity": 925,
+    "heVelocity": 925,
+    "apShellWeight": 122,
+    "heShellWeight": 122
+  },
+  "Hipper": {
+    "wikiChecked": true,
+    "apVelocity": 925,
+    "heVelocity": 925,
+    "apShellWeight": 122,
+    "heShellWeight": 122
+  },
+  "Hizen": {
+    "wikiChecked": true,
+    "apVelocity": 834,
+    "heVelocity": 834,
+    "apShellWeight": 1020,
+    "heShellWeight": 1016
+  },
+  "Hood": {
+    "wikiChecked": true,
+    "apVelocity": 731,
+    "heVelocity": 731,
+    "apShellWeight": 879,
+    "heShellWeight": 879
+  },
+  "Hōshō": {
+    "wikiChecked": true,
+    "heVelocity": 850
+  },
+  "Hsienyang": {
+    "wikiChecked": true,
+    "apVelocity": 792,
+    "heVelocity": 792,
+    "apShellWeight": 25,
+    "heShellWeight": 24.5
+  },
+  "Huanghe": {
+    "wikiChecked": true,
+    "apVelocity": 950,
+    "heVelocity": 950,
+    "apShellWeight": 55,
+    "heShellWeight": 55
+  },
+  "Huron": {
+    "wikiChecked": true,
+    "apVelocity": 808,
+    "heVelocity": 808,
+    "apShellWeight": 22.68,
+    "heShellWeight": 22.68
+  },
+  "Hyuga": {
+    "wikiChecked": true
+  },
+  "Ibuki": {
+    "wikiChecked": true
+  },
+  "Ibuki B": {
+    "wikiChecked": true
+  },
+  "Icarus": {
+    "wikiChecked": true
+  },
+  "Ignis Purgato": {
+    "wikiChecked": true
+  },
+  "I.K.S. Bortas": {
+    "wikiChecked": true
+  },
+  "Implacable": {
+    "wikiChecked": true,
+    "heVelocity": 746
+  },
+  "Incomparable": {
+    "wikiChecked": true
+  },
+  "Incomparable SE 25": {
+    "wikiChecked": true
+  },
+  "Indefatigable": {
+    "wikiChecked": true,
+    "apVelocity": 831,
+    "heVelocity": 831,
+    "apShellWeight": 389.8,
+    "heShellWeight": 386
+  },
+  "Independence": {
+    "wikiChecked": true
+  },
+  "Indianapolis": {
+    "wikiChecked": true,
+    "apVelocity": 853,
+    "heVelocity": 823,
+    "apShellWeight": 118,
+    "heShellWeight": 118
+  },
+  "Iowa": {
+    "wikiChecked": true
+  },
+  "Irian": {
+    "wikiChecked": true
+  },
+  "Iron Duke": {
+    "wikiChecked": true,
+    "apVelocity": 759,
+    "heVelocity": 759,
+    "apShellWeight": 635,
+    "heShellWeight": 635
+  },
+  "Ise": {
+    "wikiChecked": true
+  },
+  "Ishizuchi": {
+    "wikiChecked": true,
+    "apVelocity": 831,
+    "heVelocity": 831,
+    "apShellWeight": 386,
+    "heShellWeight": 386
+  },
+  "Isokaze": {
+    "wikiChecked": true,
+    "apVelocity": 660,
+    "heVelocity": 660,
+    "apShellWeight": 20.3,
+    "heShellWeight": 20.3
+  },
+  "Iwaki": {
+    "wikiChecked": true
+  },
+  "Iwami": {
+    "wikiChecked": true,
+    "apVelocity": 834,
+    "heVelocity": 834,
+    "apShellWeight": 1020,
+    "heShellWeight": 1016
+  },
+  "Iwami B": {
+    "wikiChecked": true
+  },
+  "Izmail": {
+    "wikiChecked": true,
+    "apVelocity": 823,
+    "heVelocity": 731,
+    "apShellWeight": 747.8,
+    "heShellWeight": 747.8
+  },
+  "Izumo": {
+    "wikiChecked": true,
+    "apVelocity": 870,
+    "heVelocity": 869,
+    "apShellWeight": 1020,
+    "heShellWeight": 938.5
+  },
+  "Izyaslav": {
+    "wikiChecked": true
+  },
+  "Jäger": {
+    "wikiChecked": true,
+    "apVelocity": 880,
+    "heVelocity": 880,
+    "apShellWeight": 45.5,
+    "heShellWeight": 45.5
+  },
+  "Jaguar": {
+    "wikiChecked": true
+  },
+  "Java": {
+    "wikiChecked": true
+  },
+  "Jean Bart": {
+    "wikiChecked": true,
+    "apVelocity": 830,
+    "heVelocity": 830,
+    "apShellWeight": 885,
+    "heShellWeight": 884
+  },
+  "Jervis": {
+    "wikiChecked": true
+  },
+  "Jianwei": {
+    "wikiChecked": true
+  },
+  "Jinan": {
+    "wikiChecked": true,
+    "apVelocity": 808,
+    "heVelocity": 808,
+    "apShellWeight": 31.75,
+    "heShellWeight": 31.75
+  },
+  "Johan de Witt": {
+    "wikiChecked": true,
+    "apVelocity": 900,
+    "heVelocity": 900,
+    "apShellWeight": 207,
+    "heShellWeight": 207
+  },
+  "Júpiter": {
+    "wikiChecked": true,
+    "heVelocity": 808,
+    "heShellWeight": 22.68
+  },
+  "Jurien": {
+    "wikiChecked": true
+  },
+  "Juruá": {
+    "wikiChecked": true,
+    "apVelocity": 808,
+    "heVelocity": 808,
+    "apShellWeight": 22.68,
+    "heShellWeight": 22.68
+  },
+  "Jutland": {
+    "wikiChecked": true,
+    "apVelocity": 746,
+    "heVelocity": 746,
+    "apShellWeight": 25,
+    "heShellWeight": 24.95
+  },
+  "K. Albert": {
+    "wikiChecked": true
+  },
+  "Karl von Schönberg": {
+    "wikiChecked": true,
+    "apVelocity": 835,
+    "heVelocity": 835,
+    "apShellWeight": 45.3,
+    "heShellWeight": 45.3
+  },
+  "Kaga": {
+    "wikiChecked": true,
+    "heVelocity": 725
+  },
+  "Kagerō": {
+    "wikiChecked": true,
+    "apVelocity": 915,
+    "heVelocity": 915,
+    "apShellWeight": 23,
+    "heShellWeight": 23
+  },
+  "Kaiser": {
+    "wikiChecked": true,
+    "apVelocity": 855,
+    "heVelocity": 850,
+    "apShellWeight": 405,
+    "heShellWeight": 406
+  },
+  "Kamikaze": {
+    "wikiChecked": true
+  },
+  "Kansas": {
+    "wikiChecked": true
+  },
+  "Karl XIV Johan": {
+    "wikiChecked": true,
+    "apVelocity": 865,
+    "heVelocity": 865,
+    "apShellWeight": 415,
+    "heShellWeight": 415
+  },
+  "Karlsruhe": {
+    "wikiChecked": true
+  },
+  "Katori": {
+    "wikiChecked": true,
+    "apVelocity": 850,
+    "heVelocity": 850,
+    "apShellWeight": 38,
+    "heShellWeight": 38
+  },
+  "Kawachi": {
+    "wikiChecked": true,
+    "apVelocity": 810,
+    "heVelocity": 810,
+    "apShellWeight": 386,
+    "heShellWeight": 386
+  },
+  "Khabarovsk": {
+    "wikiChecked": true
+  },
+  "Kheper": {
+    "wikiChecked": true
+  },
+  "Kidd": {
+    "wikiChecked": true
+  },
+  "Kiev": {
+    "wikiChecked": true,
+    "apVelocity": 870,
+    "heVelocity": 870,
+    "apShellWeight": 33.5,
+    "heShellWeight": 33.4
+  },
+  "Kii": {
+    "wikiChecked": true
+  },
+  "Kijkduin": {
+    "wikiChecked": true,
+    "apVelocity": 900,
+    "heVelocity": 900,
+    "apShellWeight": 46.7,
+    "heShellWeight": 46
+  },
+  "King George V": {
+    "wikiChecked": true,
+    "apVelocity": 757,
+    "heVelocity": 757,
+    "apShellWeight": 721,
+    "heShellWeight": 721
+  },
+  "Kirisame": {
+    "wikiChecked": true
+  },
+  "Kirov": {
+    "wikiChecked": true
+  },
+  "Kitakaze": {
+    "wikiChecked": true
+  },
+  "Klas Horn": {
+    "wikiChecked": true,
+    "apVelocity": 800,
+    "heVelocity": 800,
+    "apShellWeight": 21,
+    "heShellWeight": 24
+  },
+  "Kleber": {
+    "wikiChecked": true
+  },
+  "Kolberg": {
+    "wikiChecked": true,
+    "apVelocity": 715,
+    "heVelocity": 715,
+    "apShellWeight": 18.2,
+    "heShellWeight": 18
+  },
+  "Komsomolets": {
+    "wikiChecked": true,
+    "heVelocity": 823
+  },
+  "Kongō": {
+    "wikiChecked": true,
+    "apVelocity": 790,
+    "heVelocity": 805,
+    "apShellWeight": 635.5,
+    "heShellWeight": 625
+  },
+  "König": {
+    "wikiChecked": true,
+    "apVelocity": 850,
+    "heVelocity": 850,
+    "apShellWeight": 415,
+    "heShellWeight": 415
+  },
+  "Konig Albert": {
+    "wikiChecked": true
+  },
+  "Königsberg": {
+    "wikiChecked": true,
+    "apVelocity": 960,
+    "heVelocity": 960,
+    "apShellWeight": 45.5,
+    "heShellWeight": 45.5
+  },
+  "Kotovsky": {
+    "wikiChecked": true,
+    "apVelocity": 880,
+    "heVelocity": 880,
+    "apShellWeight": 51.5,
+    "heShellWeight": 51.5
+  },
+  "Krasny Krym": {
+    "wikiChecked": true,
+    "apVelocity": 861,
+    "heVelocity": 861,
+    "apShellWeight": 33.5,
+    "heShellWeight": 33.4
+  },
+  "Kremlin": {
+    "wikiChecked": true,
+    "apVelocity": 800,
+    "heVelocity": 800,
+    "apShellWeight": 1373,
+    "heShellWeight": 1373
+  },
+  "Kronshtadt": {
+    "wikiChecked": true,
+    "apVelocity": 900,
+    "heVelocity": 920,
+    "apShellWeight": 471,
+    "heShellWeight": 374.7
+  },
+  "Kuma": {
+    "wikiChecked": true
+  },
+  "Kutuzov": {
+    "wikiChecked": true
+  },
+  "Kutuzov W": {
+    "wikiChecked": true
+  },
+  "L&#x27;Adroit": {
+    "wikiChecked": true
+  },
+  "L&#x27;Aventurier": {
+    "wikiChecked": true
+  },
+  "La Foudre": {
+    "wikiChecked": true
+  },
+  "La Galissoniere": {
+    "wikiChecked": true
+  },
+  "La Perla Azul": {
+    "wikiChecked": true
+  },
+  "Laffey": {
+    "wikiChecked": true
+  },
+  "Lambros Katsonis": {
+    "wikiChecked": true
+  },
+  "Langley": {
+    "wikiChecked": true
+  },
+  "Lazo": {
+    "wikiChecked": true,
+    "apVelocity": 950,
+    "heVelocity": 950,
+    "apShellWeight": 55,
+    "heShellWeight": 55
+  },
+  "Le Fantasque": {
+    "wikiChecked": true
+  },
+  "Le Glorieux": {
+    "wikiChecked": true
+  },
+  "Le Hardi": {
+    "wikiChecked": true,
+    "apVelocity": 800,
+    "heVelocity": 840,
+    "apShellWeight": 32,
+    "heShellWeight": 30
+  },
+  "Le Terrible": {
+    "wikiChecked": true,
+    "apVelocity": 840,
+    "heVelocity": 840,
+    "apShellWeight": 39.9,
+    "heShellWeight": 40.2
+  },
+  "Leander": {
+    "wikiChecked": true
+  },
+  "Leipzig": {
+    "wikiChecked": true,
+    "apVelocity": 960,
+    "heVelocity": 960,
+    "apShellWeight": 45.5,
+    "heShellWeight": 45.5
+  },
+  "Lenin": {
+    "wikiChecked": true,
+    "apVelocity": 793,
+    "heVelocity": 793,
+    "apShellWeight": 1116,
+    "heShellWeight": 1116
+  },
+  "Leningrad": {
+    "wikiChecked": true,
+    "apVelocity": 870,
+    "heVelocity": 870,
+    "apShellWeight": 33.5,
+    "heShellWeight": 33.4
+  },
+  "Leone": {
+    "wikiChecked": true
+  },
+  "Lepanto": {
+    "wikiChecked": true
+  },
+  "Lexington": {
+    "wikiChecked": true,
+    "heVelocity": 792
+  },
+  "Lightning": {
+    "wikiChecked": true
+  },
+  "Lion": {
+    "wikiChecked": true,
+    "apVelocity": 747,
+    "heVelocity": 792,
+    "apShellWeight": 1080,
+    "heShellWeight": 929
+  },
+  "London": {
+    "wikiChecked": true,
+    "apVelocity": 855,
+    "heVelocity": 855,
+    "apShellWeight": 116.1,
+    "heShellWeight": 116.1
+  },
+  "Louisiana": {
+    "wikiChecked": true
+  },
+  "Loyang": {
+    "wikiChecked": true
+  },
+  "Luca Tarigo": {
+    "wikiChecked": true
+  },
+  "Lugdunum": {
+    "wikiChecked": true,
+    "apVelocity": 780,
+    "heVelocity": 921,
+    "apShellWeight": 380,
+    "heShellWeight": 432
+  },
+  "Lushun": {
+    "wikiChecked": true
+  },
+  "Lyon": {
+    "wikiChecked": true,
+    "apVelocity": 780,
+    "heVelocity": 921,
+    "apShellWeight": 585,
+    "heShellWeight": 431.8
+  },
+  "Maass": {
+    "wikiChecked": true
+  },
+  "Mackensen": {
+    "wikiChecked": true
+  },
+  "Madness": {
+    "wikiChecked": true
+  },
+  "Maestrale": {
+    "wikiChecked": true,
+    "heVelocity": 840,
+    "heShellWeight": 22.13
+  },
+  "Mahan": {
+    "wikiChecked": true
+  },
+  "Mahtaga": {
+    "wikiChecked": true
+  },
+  "Maine": {
+    "wikiChecked": true,
+    "apVelocity": 762,
+    "heVelocity": 820,
+    "apShellWeight": 1225,
+    "heShellWeight": 862
+  },
+  "Mainz": {
+    "wikiChecked": true,
+    "apVelocity": 960,
+    "heVelocity": 960,
+    "apShellWeight": 45.5,
+    "heShellWeight": 45.5
+  },
+  "Mainz CE": {
+    "wikiChecked": true
+  },
+  "Makarov": {
+    "wikiChecked": true
+  },
+  "Marblehead": {
+    "wikiChecked": true,
+    "apVelocity": 914,
+    "heVelocity": 914,
+    "apShellWeight": 47.6,
+    "heShellWeight": 47.7
+  },
+  "Marceau": {
+    "wikiChecked": true,
+    "apVelocity": 808,
+    "heVelocity": 808,
+    "apShellWeight": 32.5,
+    "heShellWeight": 31.5
+  },
+  "Marceau SE 25": {
+    "wikiChecked": true
+  },
+  "Marco Polo": {
+    "wikiChecked": true
+  },
+  "Marlborough": {
+    "wikiChecked": true,
+    "apVelocity": 757,
+    "heVelocity": 757,
+    "apShellWeight": 721,
+    "heShellWeight": 721
+  },
+  "Massachusetts": {
+    "wikiChecked": true
+  },
+  "Maya": {
+    "wikiChecked": true
+  },
+  "Medea": {
+    "wikiChecked": true,
+    "apVelocity": 664,
+    "heVelocity": 664,
+    "apShellWeight": 14.1,
+    "heShellWeight": 14.1
+  },
+  "Méndez Núñez": {
+    "wikiChecked": true,
+    "apVelocity": 808,
+    "heVelocity": 808,
+    "apShellWeight": 22.68,
+    "heShellWeight": 22.68
+  },
+  "Michelangelo": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 53
+  },
+  "Midway": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": null
+  },
+  "Mikasa": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 50
+  },
+  "Mikasa &#x27;23": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 50
+  },
+  "Minegumo": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 21
+  },
+  "Minekaze": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 20
+  },
+  "Minnesota": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 67
+  },
+  "Minotaur": {
+    "wikiChecked": true,
+    "traits": [
+      "Short-fuse AP"
+    ],
+    "hePen": 25
+  },
+  "Minsk": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 21
+  },
+  "Mirage": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 33
+  },
+  "Missouri": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 67
+  },
+  "Mogador": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 23
+  },
+  "Mogami": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 33
+  },
+  "Molotov": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 30
+  },
+  "Moltke": {
+    "wikiChecked": true,
+    "traits": [
+      "1/4 caliber HE pen"
+    ],
+    "hePen": 70
+  },
+  "Monaghan": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 21
+  },
+  "Monarch": {
+    "wikiChecked": true,
+    "traits": [
+      "Short-fuse AP"
+    ],
+    "hePen": 63
+  },
+  "Montana": {
+    "wikiChecked": true,
+    "traits": [],
+    "hePen": 67
+  },
+  "Montecuccoli": {
+    "wikiChecked": true,
+    "traits": [
+      "SAP main battery"
+    ],
+    "hePen": 25
+  }
+}

@@ -6,3 +6,7 @@ __pycache__/
 # Scrape state (large, regenerable)
 ships_patch_progress.json
 ships_v3_partial.json
+
+# VOD files (large, regenerable from Twitch)
+*.mp4
+vod_frames/

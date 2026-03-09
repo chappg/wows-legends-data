@@ -1,0 +1,191 @@
+[
+  {
+    "ship": "Castilla", "class": "Legendary Cruiser",
+    "survivability": {},
+    "mainBattery": {
+      "configuration": "3x3 254 mm", "range": "15.8 km", "reload": "24 s",
+      "readyRackReload": "2.5 s", "shellsInReadyRack": "2",
+      "turretTurn": "25.7 s", "shellGrouping": "2.15",
+      "maxVertDisp": "85.3 m", "maxHorizDisp": "142.2 m",
+      "medVertDisp": "23.8 m", "medHorizDisp": "39.7 m",
+      "heDamage": "3600", "heVelocity": "954 m/s", "fireChance": "16%", "hePen": "42 mm",
+      "apDamage": "6300", "apVelocity": "945 m/s",
+      "apPenPointBlank": "620.9 mm", "apPenMaxRange": "308 mm",
+      "minRicochet": "45°", "guaranteedRicochet": "60°",
+      "fuseTimer": "0.033 s", "fuseThreshold": "42 mm"
+    },
+    "secondaryArmament": {
+      "configuration": "8x2 128 mm", "range": "5.5 km", "reload": "4 s",
+      "shellGrouping": "1", "maxVertDisp": "343.5 m", "maxHorizDisp": "343.5 m",
+      "medVertDisp": "206.1 m", "medHorizDisp": "206.1 m",
+      "heDamage": "1500", "velocity": "900 m/s", "fireChance": "5%", "pen": "21 mm"
+    },
+    "aaDefense": [
+      {"name": "128 MM/61 KM40", "config": "8x2 128 mm", "dps": "107", "range": "5.2 km"},
+      {"name": "20 MM/70 Breda Model 1941", "config": "8x6 20 mm", "dps": "86", "range": "2 km"},
+      {"name": "37 MM/54 Model 1939", "config": "12x4 37 mm", "dps": "350", "range": "3.5 km"}
+    ],
+    "concealment": {
+      "bySea": "13.7 km", "afterFiringSea": "15.8 km", "onFireSea": "15.7 km",
+      "byAir": "8.2 km", "afterFiringAir": "13.3 km", "onFireAir": "11.2 km",
+      "guaranteed": "2 km", "firingInSmoke": "9.2 km"
+    }
+  },
+  {
+    "ship": "Brisbane", "class": "Legendary Cruiser",
+    "mainBattery": {
+      "configuration": "5x2 152 mm", "range": "15.4 km", "reload": "4 s",
+      "turretTurn": "4.7 s", "shellGrouping": "2.05",
+      "maxVertDisp": "83.7 m", "maxHorizDisp": "139.5 m",
+      "medVertDisp": "24.5 m", "medHorizDisp": "40.8 m",
+      "heDamage": "2150", "heVelocity": "768 m/s", "fireChance": "11%", "hePen": "30 mm",
+      "apDamage": "3200", "apVelocity": "768 m/s",
+      "apPenPointBlank": "323.8 mm", "apPenMaxRange": "100.3 mm",
+      "minRicochet": "45°"
+    },
+    "torpedoLaunchers": {
+      "configuration": "4x5 533 mm", "range": "13.5 km", "speed": "69 kt",
+      "reload": "103.4 s", "launcherTurn": "7.2 s",
+      "maxDamage": "15753", "detectability": "1.3 km", "armingDist": "215 m"
+    },
+    "maneuverability": {
+      "maxSpeed": "33.9 kt", "turningCircle": "750 m", "rudderShift": "10.4 s",
+      "spoolUp": "15 s", "reverseSpoolUp": "8 s",
+      "powerThreshold": "31 kt", "reversePowerThreshold": "11 kt"
+    }
+  },
+  {
+    "ship": "Vampire II", "class": "Legendary Destroyer",
+    "survivability": {"armor": "6-20", "hp": "20390", "fireResistance": "40%"},
+    "mainBattery": {
+      "configuration": "3x2 113 mm", "range": "11.1 km", "reload": "2.7 s",
+      "turretTurn": "7.2 s", "shellGrouping": "2",
+      "maxVertDisp": "54.9 m", "maxHorizDisp": "91.5 m",
+      "medVertDisp": "16.5 m", "medHorizDisp": "27.5 m",
+      "heDamage": "1700", "heVelocity": "746 m/s", "fireChance": "10%", "hePen": "19 mm",
+      "apDamage": "2100", "apVelocity": "746 m/s",
+      "apPenPointBlank": "140.1 mm", "apPenMaxRange": "44.5 mm",
+      "minRicochet": "60°", "guaranteedRicochet": "67.5°",
+      "fuseTimer": "0.01 s", "fuseThreshold": "19 mm"
+    },
+    "torpedoLaunchers": {
+      "configuration": "1x5 533 mm", "range": "12 km", "speed": "66 kt",
+      "reload": "90.2 s", "launcherTurn": "7.2 s",
+      "maxDamage": "19214", "detectability": "1.3 km", "armingDist": "207 m"
+    },
+    "maneuverability": {
+      "maxSpeed": "35.4 kt", "turningCircle": "680 m", "rudderShift": "3.3 s",
+      "spoolUp": "8 s", "reverseSpoolUp": "4 s",
+      "powerThreshold": "33 kt", "reversePowerThreshold": "10 kt"
+    }
+  },
+  {
+    "ship": "Jinan", "class": "Legendary Destroyer",
+    "mainBattery": {
+      "configuration": "5x2 127 mm", "range": "16.3 km", "reload": "3.2 s",
+      "turretTurn": "4.5 s", "shellGrouping": "2.15",
+      "maxVertDisp": "78.8 m", "maxHorizDisp": "131.3 m",
+      "medVertDisp": "22 m", "medHorizDisp": "36.6 m",
+      "heDamage": "1800", "heVelocity": "808 m/s", "fireChance": "11%", "hePen": "21 mm",
+      "apDamage": "2100", "apVelocity": "808 m/s",
+      "apPenPointBlank": "174.9 mm", "apPenMaxRange": "40.5 mm",
+      "minRicochet": "45°", "guaranteedRicochet": "60°",
+      "fuseTimer": "0.01 s", "fuseThreshold": "21 mm"
+    },
+    "maneuverability": {
+      "maxSpeed": "35 kt", "turningCircle": "670 m", "rudderShift": "7.7 s",
+      "spoolUp": "15 s", "reverseSpoolUp": "8 s",
+      "powerThreshold": "17 kt", "reversePowerThreshold": "25 kt"
+    }
+  },
+  {
+    "ship": "Halland", "class": "Legendary Destroyer",
+    "survivability": {"armor": "6-20", "hp": "19200", "fireResistance": "40%"},
+    "mainBattery": {
+      "configuration": "2x2 120 mm", "range": "11.5 km", "reload": "1.7 s",
+      "turretTurn": "6.8 s", "shellGrouping": "2",
+      "maxVertDisp": "54.9 m", "maxHorizDisp": "91.5 m",
+      "medVertDisp": "16.5 m", "medHorizDisp": "27.5 m",
+      "heDamage": "1750", "heVelocity": "825 m/s", "fireChance": "8%", "hePen": "20 mm",
+      "apDamage": "2100", "apVelocity": "825 m/s",
+      "apPenPointBlank": "216.9 mm", "apPenMaxRange": "54.4 mm",
+      "minRicochet": "45°", "guaranteedRicochet": "60°",
+      "fuseTimer": "0.01 s", "fuseThreshold": "20 mm"
+    },
+    "aaDefense": [
+      {"name": "57 MM/60 SAK Model 1950", "config": "1x2 57 mm", "dps": "99", "range": "4.3 km"},
+      {"name": "120 MM/50 Model 1950", "config": "2x2 120 mm", "dps": "169", "range": "5.6 km"},
+      {"name": "40 MM/70 Bofors M1948", "config": "6x1 40 mm", "dps": "314", "range": "3.8 km"}
+    ]
+  },
+  {
+    "ship": "Gdańsk", "class": "Legendary Destroyer",
+    "survivability": {"armor": "6-20", "hp": "24400", "fireResistance": "40%"},
+    "mainBattery": {
+      "configuration": "1x1 + 3x2 139 mm", "range": "11.1 km", "reload": "6.6 s",
+      "turretTurn": "11.6 s", "shellGrouping": "2",
+      "maxVertDisp": "58.7 m", "maxHorizDisp": "97.9 m",
+      "medVertDisp": "17.6 m", "medHorizDisp": "29.4 m",
+      "heDamage": "2000", "heVelocity": "840 m/s", "fireChance": "10%", "hePen": "35 mm",
+      "apDamage": null, "apVelocity": null
+    },
+    "torpedoLaunchers": {
+      "configuration": "2x5 533 mm", "range": "10 km", "speed": "82 kt",
+      "reload": "115 s", "launcherTurn": "7.2 s",
+      "maxDamage": "10231"
+    }
+  },
+  {
+    "ship": "C. Colombo", "class": "Legendary Battleship",
+    "survivability": {"armor": "19-406", "hp": "80000", "torpedoReduction": "31%", "fireResistance": "49%"},
+    "mainBattery": {
+      "configuration": "4x4 381 mm", "range": "15.5 km", "reload": "28.3 s",
+      "turretTurn": "38.3 s", "shellGrouping": "1.6",
+      "maxVertDisp": "130.9 m", "maxHorizDisp": "218.2 m",
+      "medVertDisp": "49.1 m", "medHorizDisp": "81.8 m",
+      "heDamage": "5400", "heVelocity": "880 m/s", "fireChance": "24%", "hePen": "64 mm",
+      "apDamage": "10250", "apVelocity": "850 m/s",
+      "apPenPointBlank": "814.1 mm", "apPenMaxRange": "508.3 mm",
+      "minRicochet": "50°", "guaranteedRicochet": "65°",
+      "fuseTimer": "0.033 s", "fuseThreshold": "64 mm"
+    },
+    "secondaryArmament": [
+      {
+        "name": "90 MM/50 OTO 1939", "configuration": "12x2 90 mm", "range": "8.6 km",
+        "reload": "5.1 s", "shellGrouping": "1.2",
+        "sapDamage": "2000", "sapVelocity": "850 m/s", "pen": "26 mm",
+        "minRicochet": "70°", "guaranteedRicochet": "90°"
+      },
+      {
+        "name": "152 MM/55 OTO 1936", "configuration": "6x3 152 mm", "range": "8.6 km",
+        "reload": "7.2 s", "shellGrouping": "1.2",
+        "sapDamage": "3800", "sapVelocity": "930 m/s", "pen": "42.3 mm",
+        "minRicochet": "70°", "guaranteedRicochet": "90°"
+      }
+    ],
+    "maneuverability": {
+      "maxSpeed": "29.6 kt", "turningCircle": "960 m", "rudderShift": "18 s",
+      "spoolUp": "23 s", "reverseSpoolUp": "11 s",
+      "powerThreshold": "7 kt", "reversePowerThreshold": "9 kt"
+    }
+  },
+  {
+    "ship": "Venezia", "class": "Legendary Cruiser",
+    "mainBattery": {
+      "configuration": "5x3 203 mm", "range": "16 km", "reload": "18.1 s",
+      "turretTurn": "20.9 s", "shellGrouping": "2.05",
+      "maxVertDisp": "86 m", "maxHorizDisp": "143.4 m",
+      "medVertDisp": "25.2 m", "medHorizDisp": "42 m",
+      "heDamage": "2900", "heVelocity": "850 m/s", "fireChance": "15%", "hePen": "34 mm",
+      "apDamage": "4800", "apVelocity": "910 m/s",
+      "apPenPointBlank": "467.7 mm", "apPenMaxRange": "214.7 mm",
+      "minRicochet": "45°", "guaranteedRicochet": "60°",
+      "fuseTimer": "0.033 s", "fuseThreshold": "34 mm"
+    },
+    "maneuverability": {
+      "maxSpeed": "38.4 kt", "turningCircle": "760 m", "rudderShift": "11.5 s",
+      "spoolUp": "15 s", "reverseSpoolUp": "8 s",
+      "powerThreshold": "7 kt", "reversePowerThreshold": "11 kt"
+    }
+  }
+]

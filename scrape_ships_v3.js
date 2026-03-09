@@ -177,6 +177,57 @@ function extractMods(html) {
   }
 }
 
+// Sanity-check scraped values — wowsbuilds.com occasionally has corrupted data
+function validateShipStats(ship) {
+  const numericVal = (s) => s ? parseFloat(String(s).replace(/[, ]/g, '').replace(/ ?(mm|km|kt|s|°\/s|m|%)$/, '')) : null;
+
+  // Overmatch: caliber/14.3 — biggest guns are ~510mm → max ~36mm. Cap at 50 for safety.
+  const om = numericVal(ship.overmatch);
+  if (om !== null && om > 50) {
+    console.error(`  ⚠️ ${ship.name}: invalid overmatch ${ship.overmatch} — nullified`);
+    ship.overmatch = null;
+  }
+
+  // Main range: no ship exceeds ~30km
+  const mr = numericVal(ship.mainRange);
+  if (mr !== null && mr > 35) {
+    console.error(`  ⚠️ ${ship.name}: invalid mainRange ${ship.mainRange} — nullified`);
+    ship.mainRange = null;
+  }
+
+  // Speed: no ship exceeds ~60kt
+  const spd = numericVal(ship.maxSpeed);
+  if (spd !== null && spd > 70) {
+    console.error(`  ⚠️ ${ship.name}: invalid maxSpeed ${ship.maxSpeed} — nullified`);
+    ship.maxSpeed = null;
+  }
+
+  // DPM values: cap at 2,000,000 (highest real DPM is ~600k)
+  for (const key of ['heDPM', 'apDPM']) {
+    const v = numericVal(ship[key]);
+    if (v !== null && v > 2000000) {
+      console.error(`  ⚠️ ${ship.name}: invalid ${key} ${ship[key]} — nullified`);
+      ship[key] = null;
+    }
+  }
+
+  // Alpha strike: cap at 500,000
+  for (const key of ['heAlphaStrike', 'apAlphaStrike']) {
+    const v = numericVal(ship[key]);
+    if (v !== null && v > 500000) {
+      console.error(`  ⚠️ ${ship.name}: invalid ${key} ${ship[key]} — nullified`);
+      ship[key] = null;
+    }
+  }
+
+  // Sigma: should be 1.0–3.0
+  const sig = numericVal(ship.sigma);
+  if (sig !== null && (sig < 0.5 || sig > 3.5)) {
+    console.error(`  ⚠️ ${ship.name}: invalid sigma ${ship.sigma} — nullified`);
+    ship.sigma = null;
+  }
+}
+
 async function main() {
   console.error('=== WoWS Builds Ship Scraper v3 ===\n');
 
@@ -230,6 +281,9 @@ async function main() {
       }
       
       const ship = parseShipText(text + '\n' + rscText, slug);
+      
+      // Validate scraped numeric fields — wowsbuilds.com sometimes has garbage data
+      validateShipStats(ship);
       
       // Find first build link and fetch mods
       const buildPath = findFirstBuild(html);

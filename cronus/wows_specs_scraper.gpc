@@ -1,0 +1,221 @@
+// WoWS Legends - SPECS Data Extractor (Phase 1: Section Overviews)
+// Cronus Zen GPC Script
+//
+// HOW TO USE:
+//   1. Navigate to the rightmost ship in your port carousel (Legendary tier)
+//   2. Press LB + RB together to START the script
+//   3. Press LB + RB again to STOP at any time
+//   4. Record via Twitch/Xbox capture the entire time
+//
+// NAVIGATION PER SHIP:
+//   X -> A -> RB,RB -> for each section: enter, scroll stats, B out, next section -> B -> Left
+//
+// Xbox Button IDs:
+//   XB1_A=19, XB1_B=18, XB1_X=20, XB1_Y=17
+//   XB1_RB=3, XB1_LB=6
+//   XB1_UP=13, XB1_DOWN=14, XB1_LEFT=15, XB1_RIGHT=16
+
+// ===== CONFIGURABLE TIMING (milliseconds) =====
+define PRESS_DUR       = 100;   // button press duration
+define SHORT_WAIT      = 300;   // wait between rapid presses
+define MENU_WAIT       = 1500;  // wait for menu/screen transitions
+define SECTION_PAUSE   = 3000;  // pause at each section top for screenshot
+define SCROLL_PAUSE    = 1500;  // pause between scroll-downs within a section
+define SHIP_LOAD_WAIT  = 2500;  // wait for next ship to load in carousel
+define SCROLL_DOWNS    = 10;    // max stat lines to scroll per section
+
+int running = 0;
+int i;  // loop counter for scrolling
+
+main {
+    // Toggle script on/off with LB + RB
+    if (get_val(XB1_LB) && get_val(XB1_RB)) {
+        if (event_press(XB1_RB)) {
+            running = !running;
+            if (running) {
+                combo_run(process_ship);
+            } else {
+                combo_stop(process_ship);
+            }
+        }
+    }
+    
+    // Block controller input while running
+    if (running) {
+        set_val(XB1_A, 0);
+        set_val(XB1_B, 0);
+        set_val(XB1_X, 0);
+        set_val(XB1_Y, 0);
+        set_val(XB1_UP, 0);
+        set_val(XB1_DOWN, 0);
+        set_val(XB1_LEFT, 0);
+        set_val(XB1_RIGHT, 0);
+        set_val(XB1_RB, 0);
+        set_val(XB1_LB, 0);
+    }
+}
+
+// ===== MAIN SHIP PROCESSING LOOP =====
+combo process_ship {
+    // --- ENTER SHIP ---
+    // X (Ship Options)
+    set_val(XB1_X, 100);
+    wait(PRESS_DUR);
+    set_val(XB1_X, 0);
+    wait(MENU_WAIT);
+    
+    // A (Select "Upgrades and Loadout")
+    set_val(XB1_A, 100);
+    wait(PRESS_DUR);
+    set_val(XB1_A, 0);
+    wait(MENU_WAIT);
+    
+    // RB twice (navigate to SPECS tab)
+    set_val(XB1_RB, 100);
+    wait(PRESS_DUR);
+    set_val(XB1_RB, 0);
+    wait(SHORT_WAIT);
+    set_val(XB1_RB, 100);
+    wait(PRESS_DUR);
+    set_val(XB1_RB, 0);
+    wait(MENU_WAIT);
+    
+    // --- SECTION 1: Survivability (already highlighted on entry) ---
+    call(read_current_section);
+    
+    // D-pad Down to highlight Section 2: Main Battery
+    call(tap_down);
+    wait(MENU_WAIT);
+    call(read_current_section);
+    
+    // D-pad Down to highlight Section 3: Secondary Armament
+    call(tap_down);
+    wait(MENU_WAIT);
+    call(read_current_section);
+    
+    // D-pad Down to highlight Section 4: Torpedo Launchers
+    call(tap_down);
+    wait(MENU_WAIT);
+    call(read_current_section);
+    
+    // D-pad Down to highlight Section 5: AA Defense
+    call(tap_down);
+    wait(MENU_WAIT);
+    call(read_current_section);
+    
+    // D-pad Down to highlight Section 6: Maneuverability
+    call(tap_down);
+    wait(MENU_WAIT);
+    call(read_current_section);
+    
+    // D-pad Down to highlight Section 7: Concealment
+    call(tap_down);
+    wait(MENU_WAIT);
+    call(read_current_section);
+    
+    // --- EXIT AND NEXT SHIP ---
+    // B to go back to carousel (from sidebar level = 1 press)
+    set_val(XB1_B, 100);
+    wait(PRESS_DUR);
+    set_val(XB1_B, 0);
+    wait(MENU_WAIT);
+    
+    // D-pad Left to next ship
+    set_val(XB1_LEFT, 100);
+    wait(PRESS_DUR);
+    set_val(XB1_LEFT, 0);
+    wait(SHIP_LOAD_WAIT);
+    
+    // Loop: process next ship
+    if (running) {
+        combo_restart(process_ship);
+    }
+}
+
+// ===== Read current section: enter, scroll through stats, exit =====
+// 1. Pause for screenshot of section overview (top of stats)
+// 2. A to enter stat lines
+// 3. D-pad down SCROLL_DOWNS times to scroll through all stats
+// 4. B to exit back to sidebar
+combo read_current_section {
+    // Pause at section top for screenshot
+    wait(SECTION_PAUSE);
+    
+    // A to enter the stat lines (focus moves to right panel)
+    set_val(XB1_A, 100);
+    wait(PRESS_DUR);
+    set_val(XB1_A, 0);
+    wait(SHORT_WAIT);
+    
+    // Scroll through stat lines
+    // Each D-pad down moves to next stat line and scrolls view
+    call(scroll_stats);
+    
+    // B to exit back to sidebar (section level)
+    set_val(XB1_B, 100);
+    wait(PRESS_DUR);
+    set_val(XB1_B, 0);
+    wait(SHORT_WAIT);
+}
+
+// ===== Scroll through stats in current section =====
+combo scroll_stats {
+    // 10 D-pad downs with pauses - enough for longest sections
+    // Extra presses at bottom of section are harmless (no-op)
+    set_val(XB1_DOWN, 100);
+    wait(PRESS_DUR);
+    set_val(XB1_DOWN, 0);
+    wait(SCROLL_PAUSE);
+    
+    set_val(XB1_DOWN, 100);
+    wait(PRESS_DUR);
+    set_val(XB1_DOWN, 0);
+    wait(SCROLL_PAUSE);
+    
+    set_val(XB1_DOWN, 100);
+    wait(PRESS_DUR);
+    set_val(XB1_DOWN, 0);
+    wait(SCROLL_PAUSE);
+    
+    set_val(XB1_DOWN, 100);
+    wait(PRESS_DUR);
+    set_val(XB1_DOWN, 0);
+    wait(SCROLL_PAUSE);
+    
+    set_val(XB1_DOWN, 100);
+    wait(PRESS_DUR);
+    set_val(XB1_DOWN, 0);
+    wait(SCROLL_PAUSE);
+    
+    set_val(XB1_DOWN, 100);
+    wait(PRESS_DUR);
+    set_val(XB1_DOWN, 0);
+    wait(SCROLL_PAUSE);
+    
+    set_val(XB1_DOWN, 100);
+    wait(PRESS_DUR);
+    set_val(XB1_DOWN, 0);
+    wait(SCROLL_PAUSE);
+    
+    set_val(XB1_DOWN, 100);
+    wait(PRESS_DUR);
+    set_val(XB1_DOWN, 0);
+    wait(SCROLL_PAUSE);
+    
+    set_val(XB1_DOWN, 100);
+    wait(PRESS_DUR);
+    set_val(XB1_DOWN, 0);
+    wait(SCROLL_PAUSE);
+    
+    set_val(XB1_DOWN, 100);
+    wait(PRESS_DUR);
+    set_val(XB1_DOWN, 0);
+    wait(SCROLL_PAUSE);
+}
+
+// ===== Helper: single D-pad down tap =====
+combo tap_down {
+    set_val(XB1_DOWN, 100);
+    wait(PRESS_DUR);
+    set_val(XB1_DOWN, 0);
+}
